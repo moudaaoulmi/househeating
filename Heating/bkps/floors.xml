@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Floors>
+  <Floor>
+    <num>1</num>
+    <room>Cucina</room>
+    <room>Corridoio1</room>
+    <room>Dispensa</room>
+    <room>Ospiti</room>
+    <room>Studio1</room>
+    <room>Bagno1</room>
+  </Floor>
+  <Floor>
+    <num>2</num>
+    <room>Salone</room>
+    <room>Studio2</room>
+    <room>Bagno2</room>
+    <room>Birra</room>
+    <room>Corridoio2</room>
+  </Floor>
+  <Floor>
+    <num>3</num>
+    <room>Letto1</room>
+    <room>Letto2</room>
+    <room>Bagno3</room>
+    <room>Bagno4</room>
+    <room>Letto3</room>
+    <room>Corridoio3</room>
+  </Floor>
+    <Floor>
+    <num>4</num>
+    <room>Mansarda</room>
+  </Floor>
+  
+</Floors>
+

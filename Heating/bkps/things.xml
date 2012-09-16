@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Things>
+  <thing>
+    <name>Televisione</name>
+    <thermal_power>30</thermal_power>
+    <energy>300</energy>
+  </thing>
+  <thing>
+    <name>Forno</name>
+    <thermal_power>400</thermal_power>
+    <energy>1000</energy>
+  </thing>
+  <thing>
+    <name>Lampada alogena</name>
+    <thermal_power>70</thermal_power>
+    <energy>100</energy>
+  </thing>
+  <thing>
+    <name>Isabella</name>
+    <thermal_power>400</thermal_power>
+    <energy>1000</energy>
+  </thing>
+  <thing>
+    <name>Finestra piccola</name>
+    <thermal_power>-50</thermal_power>
+    <energy>0</energy>
+  </thing>
+  <thing>
+    <name>Phon</name>
+    <thermal_power>300</thermal_power>
+    <energy>100</energy>
+  </thing>
+  <thing>
+    <name>Balcone</name>
+    <thermal_power>-150</thermal_power>
+    <energy>0</energy>
+  </thing>
+  <thing>
+    <name>Computer</name>
+    <thermal_power>50</thermal_power>
+    <energy>200</energy>
+  </thing>
+  <thing>
+    <name>Frigorifero</name>
+    <thermal_power>30</thermal_power>
+    <energy>100</energy>
+  </thing>
+  <thing>
+    <name>Finestra grande</name>
+    <thermal_power>-100</thermal_power>
+    <energy>0</energy>
+  </thing>
+  <thing>
+    <name>Caminetto</name>
+    <thermal_power>1000</thermal_power>
+    <energy>0</energy>
+  </thing>
+  <thing>
+    <name>Finestra</name>
+    <thermal_power>-80</thermal_power>
+    <energy>0</energy>
+  </thing>
+</Things>
+
