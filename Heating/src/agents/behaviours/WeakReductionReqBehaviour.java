@@ -41,7 +41,7 @@ public class WeakReductionReqBehaviour extends Behaviour {
 			printMex(applicant_mex);
 			System.out.println();
 		}
-}
+	}
 
 	@Override
 	public void action() {
@@ -165,56 +165,6 @@ public class WeakReductionReqBehaviour extends Behaviour {
 	}
 
 	/**
-	 * Creates a Message of Request-Acceptance. Its form is as follow:
-	 * TimeStamp(long):available_energy(int) This message means that the
-	 * applicant can use at most the indicated energy. Take in mind that it will
-	 * use as few as possible energy.
-	 * timestamp(long):available_energy(int):priority(string)
-	 * 
-	 * @return
-	 */
-	private ACLMessage createOkWeakRequestWithEnergy() {
-		ACLMessage msg = applicant_mex.createReply();
-
-		int available_energy = Environment.getAvailableEnergy()
-				- Settings.getMin_energy();
-
-		String content = ((Long) TimeHandler.getInstance().getCalendar()
-				.getTimeInMillis()).toString();
-		content += ":" + available_energy;
-		content += ":" + applicant_values[0];
-
-		msg.setContent(content);
-		return msg;
-	}
-
-	/**
-	 * Create a weak reduction order message, meaning that the receiver has to
-	 * turn down heating of 1/3
-	 * timestamp(long):reductionFactor(float):reply(boolean)
-	 * 
-	 * @param a
-	 * @return
-	 */
-	private ACLMessage createWeakReducePowOrderMessage(AID a) {
-		ACLMessage msg = new ACLMessage(ACLMessage.INFORM);
-		msg.addReceiver(a);
-		msg.setConversationId(MsgType.REDUCTION_ORDER.toString());
-
-		float f = 0.3F;
-		Boolean t = true;
-
-		String content = ((Long) TimeHandler.getInstance().getCalendar()
-				.getTimeInMillis()).toString();
-		content += ":" + f;
-		content += ":" + t.toString();
-
-		msg.setContent(content);
-
-		return msg;
-	}
-
-	/**
 	 * Retrieve the list of all the agents, and request them their current
 	 * priority
 	 */
@@ -282,7 +232,7 @@ public class WeakReductionReqBehaviour extends Behaviour {
 			content_values = msg.getContent().split(":");
 			if (Settings.isLog())
 				printMex(msg);
-				
+
 			date = Long.parseLong(content_values[3]);
 			if (TimeHandler.getInstance().isActual(date)) {
 
@@ -297,7 +247,7 @@ public class WeakReductionReqBehaviour extends Behaviour {
 
 					if (Settings.isLog())
 						System.out.println("   => " + p.toString());
-					
+
 					priorities.put(msg.getSender(), p);
 				}
 			}
@@ -321,7 +271,8 @@ public class WeakReductionReqBehaviour extends Behaviour {
 		for (AID curr_aid : priorities.keySet()) {
 			p = priorities.get(curr_aid);
 
-			if (p.heating_since >= 1 || p.priority_type != Priority.NOTHING.getType()) {
+			if (p.heating_since >= 1
+					|| p.priority_type != Priority.NOTHING.getType()) {
 				if (p.priority_type != Priority.MIN_TEMP.getType()) {
 
 					if (p.priority_type > max_type) {
@@ -340,6 +291,56 @@ public class WeakReductionReqBehaviour extends Behaviour {
 		return min_priority_aid;
 	}
 
+	/**
+	 * Create a weak reduction order message, meaning that the receiver has to
+	 * turn down heating of 1/3
+	 * timestamp(long):reductionFactor(float):reply(boolean)
+	 * 
+	 * @param a
+	 * @return
+	 */
+	private ACLMessage createWeakReducePowOrderMessage(AID a) {
+		ACLMessage msg = new ACLMessage(ACLMessage.INFORM);
+		msg.addReceiver(a);
+		msg.setConversationId(MsgType.REDUCTION_ORDER.toString());
+
+		float f = 0.3F;
+		Boolean t = true;
+
+		String content = ((Long) TimeHandler.getInstance().getCalendar()
+				.getTimeInMillis()).toString();
+		content += ":" + f;
+		content += ":" + t.toString();
+
+		msg.setContent(content);
+
+		return msg;
+	}
+
+	/**
+	 * Creates a Message of Request-Acceptance. Its form is as follow:
+	 * TimeStamp(long):available_energy(int) This message means that the
+	 * applicant can use at most the indicated energy. Take in mind that it will
+	 * use as few as possible energy.
+	 * timestamp(long):available_energy(int):priority(string)
+	 * 
+	 * @return
+	 */
+	private ACLMessage createOkWeakRequestWithEnergy() {
+		ACLMessage msg = applicant_mex.createReply();
+
+		int available_energy = Environment.getAvailableEnergy()
+				- Settings.getMin_energy();
+
+		String content = ((Long) TimeHandler.getInstance().getCalendar()
+				.getTimeInMillis()).toString();
+		content += ":" + available_energy;
+		content += ":" + applicant_values[0];
+
+		msg.setContent(content);
+		return msg;
+	}
+
 	@Override
 	public boolean done() {
 		return false;
@@ -355,12 +356,14 @@ public class WeakReductionReqBehaviour extends Behaviour {
 		Integer priority_type, priority_level;
 		Integer energy;
 		Integer heating_since;
-		
+
 		@Override
 		public String toString() {
-			return "Priority: " + priority.toString() + "(type " + priority_type +", level " + priority_level + ") energy " + energy + " heating since " + heating_since;
+			return "Priority: " + priority.toString() + "(type "
+					+ priority_type + ", level " + priority_level + ") energy "
+					+ energy + " heating since " + heating_since;
 		}
-		
+
 	}
 
 	private void printMex(ACLMessage msg) {
