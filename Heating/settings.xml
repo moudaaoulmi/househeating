@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+  <interval_length>30</interval_length>
+  <max_power_consumption>2000</max_power_consumption>
+  <min_temperature>5</min_temperature>
+  <max_temperature>35</max_temperature>
+  <enel_energy>3000</enel_energy>
+  <max_solar_energy>5000</max_solar_energy>
+  <stats_interval>30</stats_interval>
+  <rooms_height>3</rooms_height>
+  <min_energy>200</min_energy>
+  <log>true</log>
+  <people_simulation>true</people_simulation>
+</Settings>
+
