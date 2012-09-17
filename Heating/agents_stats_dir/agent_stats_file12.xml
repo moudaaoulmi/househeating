@@ -2,86 +2,474 @@
 <People>
   <SUNDAY>
     <interval_1_1>0</interval_1_1>
-    <interval_1_2>0</interval_1_2>
-    <interval_1_3>0</interval_1_3>
-    <interval_1_4>0</interval_1_4>
+    <interval_1_2>2</interval_1_2>
+    <interval_1_3>2</interval_1_3>
+    <interval_1_4>2</interval_1_4>
     <interval_2_1>0</interval_2_1>
-    <interval_2_2>0</interval_2_2>
-    <interval_2_3>0</interval_2_3>
-    <interval_2_4>0</interval_2_4>
+    <interval_2_2>2</interval_2_2>
+    <interval_2_3>2</interval_2_3>
+    <interval_2_4>2</interval_2_4>
     <interval_3_1>0</interval_3_1>
-    <interval_3_2>0</interval_3_2>
-    <interval_3_3>0</interval_3_3>
-    <interval_3_4>0</interval_3_4>
+    <interval_3_2>2</interval_3_2>
+    <interval_3_3>2</interval_3_3>
+    <interval_3_4>2</interval_3_4>
     <interval_4_1>0</interval_4_1>
-    <interval_4_2>0</interval_4_2>
-    <interval_4_3>0</interval_4_3>
-    <interval_4_4>0</interval_4_4>
+    <interval_4_2>2</interval_4_2>
+    <interval_4_3>2</interval_4_3>
+    <interval_4_4>2</interval_4_4>
     <interval_5_1>0</interval_5_1>
-    <interval_5_2>0</interval_5_2>
-    <interval_5_3>0</interval_5_3>
-    <interval_5_4>0</interval_5_4>
+    <interval_5_2>2</interval_5_2>
+    <interval_5_3>2</interval_5_3>
+    <interval_5_4>2</interval_5_4>
     <interval_6_1>0</interval_6_1>
-    <interval_6_2>0</interval_6_2>
-    <interval_6_3>0</interval_6_3>
-    <interval_6_4>0</interval_6_4>
+    <interval_6_2>2</interval_6_2>
+    <interval_6_3>2</interval_6_3>
+    <interval_6_4>2</interval_6_4>
     <interval_7_1>0</interval_7_1>
-    <interval_7_2>0</interval_7_2>
-    <interval_7_3>0</interval_7_3>
-    <interval_7_4>0</interval_7_4>
-    <interval_8_1>0</interval_8_1>
-    <interval_8_2>0</interval_8_2>
-    <interval_8_3>3</interval_8_3>
-    <interval_8_4>3</interval_8_4>
-    <interval_9_1>0</interval_9_1>
-    <interval_9_2>0</interval_9_2>
-    <interval_9_3>0</interval_9_3>
-    <interval_9_4>3</interval_9_4>
-    <interval_10_1>0</interval_10_1>
-    <interval_10_2>0</interval_10_2>
-    <interval_10_3>0</interval_10_3>
-    <interval_10_4>3</interval_10_4>
+    <interval_7_2>2</interval_7_2>
+    <interval_7_3>2</interval_7_3>
+    <interval_7_4>2</interval_7_4>
+    <interval_8_1>3</interval_8_1>
+    <interval_8_2>2</interval_8_2>
+    <interval_8_3>2</interval_8_3>
+    <interval_8_4>2</interval_8_4>
+    <interval_9_1>3</interval_9_1>
+    <interval_9_2>2</interval_9_2>
+    <interval_9_3>2</interval_9_3>
+    <interval_9_4>2</interval_9_4>
+    <interval_10_1>3</interval_10_1>
+    <interval_10_2>2</interval_10_2>
+    <interval_10_3>2</interval_10_3>
+    <interval_10_4>2</interval_10_4>
     <interval_11_1>0</interval_11_1>
-    <interval_11_2>0</interval_11_2>
-    <interval_11_3>0</interval_11_3>
-    <interval_11_4>0</interval_11_4>
+    <interval_11_2>2</interval_11_2>
+    <interval_11_3>2</interval_11_3>
+    <interval_11_4>2</interval_11_4>
     <interval_12_1>0</interval_12_1>
-    <interval_12_2>0</interval_12_2>
-    <interval_12_3>0</interval_12_3>
-    <interval_12_4>0</interval_12_4>
+    <interval_12_2>2</interval_12_2>
+    <interval_12_3>2</interval_12_3>
+    <interval_12_4>2</interval_12_4>
     <interval_13_1>0</interval_13_1>
-    <interval_13_2>0</interval_13_2>
-    <interval_13_3>0</interval_13_3>
-    <interval_13_4>0</interval_13_4>
+    <interval_13_2>2</interval_13_2>
+    <interval_13_3>2</interval_13_3>
+    <interval_13_4>2</interval_13_4>
     <interval_14_1>0</interval_14_1>
-    <interval_14_2>0</interval_14_2>
-    <interval_14_3>0</interval_14_3>
-    <interval_14_4>0</interval_14_4>
+    <interval_14_2>2</interval_14_2>
+    <interval_14_3>2</interval_14_3>
+    <interval_14_4>2</interval_14_4>
     <interval_15_1>0</interval_15_1>
-    <interval_15_2>0</interval_15_2>
-    <interval_15_3>0</interval_15_3>
-    <interval_15_4>0</interval_15_4>
+    <interval_15_2>2</interval_15_2>
+    <interval_15_3>2</interval_15_3>
+    <interval_15_4>2</interval_15_4>
     <interval_16_1>0</interval_16_1>
-    <interval_16_2>0</interval_16_2>
-    <interval_16_3>0</interval_16_3>
-    <interval_16_4>0</interval_16_4>
+    <interval_16_2>2</interval_16_2>
+    <interval_16_3>2</interval_16_3>
+    <interval_16_4>2</interval_16_4>
     <interval_17_1>0</interval_17_1>
-    <interval_17_2>0</interval_17_2>
-    <interval_17_3>0</interval_17_3>
-    <interval_17_4>0</interval_17_4>
+    <interval_17_2>2</interval_17_2>
+    <interval_17_3>1</interval_17_3>
+    <interval_17_4>1</interval_17_4>
     <interval_18_1>0</interval_18_1>
-    <interval_18_2>0</interval_18_2>
+    <interval_18_2>2</interval_18_2>
     <interval_18_3>0</interval_18_3>
     <interval_18_4>0</interval_18_4>
     <interval_19_1>0</interval_19_1>
-    <interval_19_2>0</interval_19_2>
+    <interval_19_2>2</interval_19_2>
     <interval_19_3>0</interval_19_3>
     <interval_19_4>0</interval_19_4>
-    <interval_20_1>-1</interval_20_1>
-    <interval_20_2>0</interval_20_2>
+    <interval_20_1>0</interval_20_1>
+    <interval_20_2>2</interval_20_2>
     <interval_20_3>0</interval_20_3>
     <interval_20_4>0</interval_20_4>
-    <interval_21_1>-1</interval_21_1>
+    <interval_21_1>0</interval_21_1>
+    <interval_21_2>1</interval_21_2>
+    <interval_21_3>0</interval_21_3>
+    <interval_21_4>0</interval_21_4>
+    <interval_22_1>0</interval_22_1>
+    <interval_22_2>0</interval_22_2>
+    <interval_22_3>0</interval_22_3>
+    <interval_22_4>0</interval_22_4>
+    <interval_23_1>0</interval_23_1>
+    <interval_23_2>0</interval_23_2>
+    <interval_23_3>0</interval_23_3>
+    <interval_23_4>0</interval_23_4>
+    <interval_24_1>0</interval_24_1>
+    <interval_24_2>0</interval_24_2>
+    <interval_24_3>0</interval_24_3>
+    <interval_24_4>0</interval_24_4>
+    <interval_25_1>0</interval_25_1>
+    <interval_25_2>0</interval_25_2>
+    <interval_25_3>0</interval_25_3>
+    <interval_25_4>0</interval_25_4>
+    <interval_26_1>2</interval_26_1>
+    <interval_26_2>0</interval_26_2>
+    <interval_26_3>0</interval_26_3>
+    <interval_26_4>0</interval_26_4>
+    <interval_27_1>0</interval_27_1>
+    <interval_27_2>0</interval_27_2>
+    <interval_27_3>0</interval_27_3>
+    <interval_27_4>0</interval_27_4>
+    <interval_28_1>0</interval_28_1>
+    <interval_28_2>0</interval_28_2>
+    <interval_28_3>0</interval_28_3>
+    <interval_28_4>0</interval_28_4>
+    <interval_29_1>0</interval_29_1>
+    <interval_29_2>0</interval_29_2>
+    <interval_29_3>0</interval_29_3>
+    <interval_29_4>0</interval_29_4>
+    <interval_30_1>0</interval_30_1>
+    <interval_30_2>0</interval_30_2>
+    <interval_30_3>0</interval_30_3>
+    <interval_30_4>0</interval_30_4>
+    <interval_31_1>0</interval_31_1>
+    <interval_31_2>0</interval_31_2>
+    <interval_31_3>0</interval_31_3>
+    <interval_31_4>0</interval_31_4>
+    <interval_32_1>1</interval_32_1>
+    <interval_32_2>0</interval_32_2>
+    <interval_32_3>0</interval_32_3>
+    <interval_32_4>0</interval_32_4>
+    <interval_33_1>0</interval_33_1>
+    <interval_33_2>0</interval_33_2>
+    <interval_33_3>0</interval_33_3>
+    <interval_33_4>0</interval_33_4>
+    <interval_34_1>0</interval_34_1>
+    <interval_34_2>0</interval_34_2>
+    <interval_34_3>0</interval_34_3>
+    <interval_34_4>0</interval_34_4>
+    <interval_35_1>0</interval_35_1>
+    <interval_35_2>0</interval_35_2>
+    <interval_35_3>0</interval_35_3>
+    <interval_35_4>0</interval_35_4>
+    <interval_36_1>0</interval_36_1>
+    <interval_36_2>0</interval_36_2>
+    <interval_36_3>0</interval_36_3>
+    <interval_36_4>0</interval_36_4>
+    <interval_37_1>0</interval_37_1>
+    <interval_37_2>0</interval_37_2>
+    <interval_37_3>0</interval_37_3>
+    <interval_37_4>0</interval_37_4>
+    <interval_38_1>0</interval_38_1>
+    <interval_38_2>0</interval_38_2>
+    <interval_38_3>1</interval_38_3>
+    <interval_38_4>0</interval_38_4>
+    <interval_39_1>0</interval_39_1>
+    <interval_39_2>0</interval_39_2>
+    <interval_39_3>1</interval_39_3>
+    <interval_39_4>0</interval_39_4>
+    <interval_40_1>0</interval_40_1>
+    <interval_40_2>0</interval_40_2>
+    <interval_40_3>1</interval_40_3>
+    <interval_40_4>0</interval_40_4>
+    <interval_41_1>0</interval_41_1>
+    <interval_41_2>0</interval_41_2>
+    <interval_41_3>1</interval_41_3>
+    <interval_41_4>0</interval_41_4>
+    <interval_42_1>0</interval_42_1>
+    <interval_42_2>0</interval_42_2>
+    <interval_42_3>1</interval_42_3>
+    <interval_42_4>0</interval_42_4>
+    <interval_43_1>0</interval_43_1>
+    <interval_43_2>0</interval_43_2>
+    <interval_43_3>1</interval_43_3>
+    <interval_43_4>0</interval_43_4>
+    <interval_44_1>0</interval_44_1>
+    <interval_44_2>0</interval_44_2>
+    <interval_44_3>1</interval_44_3>
+    <interval_44_4>0</interval_44_4>
+    <interval_45_1>0</interval_45_1>
+    <interval_45_2>0</interval_45_2>
+    <interval_45_3>1</interval_45_3>
+    <interval_45_4>2</interval_45_4>
+    <interval_46_1>0</interval_46_1>
+    <interval_46_2>2</interval_46_2>
+    <interval_46_3>1</interval_46_3>
+    <interval_46_4>2</interval_46_4>
+    <interval_47_1>0</interval_47_1>
+    <interval_47_2>2</interval_47_2>
+    <interval_47_3>1</interval_47_3>
+    <interval_47_4>2</interval_47_4>
+    <interval_48_1>2</interval_48_1>
+    <interval_48_2>2</interval_48_2>
+    <interval_48_3>2</interval_48_3>
+    <interval_48_4>2</interval_48_4>
+  </SUNDAY>
+  <MONDAY>
+    <interval_1_1>2</interval_1_1>
+    <interval_1_2>2</interval_1_2>
+    <interval_1_3>2</interval_1_3>
+    <interval_1_4>2</interval_1_4>
+    <interval_2_1>2</interval_2_1>
+    <interval_2_2>2</interval_2_2>
+    <interval_2_3>2</interval_2_3>
+    <interval_2_4>2</interval_2_4>
+    <interval_3_1>2</interval_3_1>
+    <interval_3_2>2</interval_3_2>
+    <interval_3_3>2</interval_3_3>
+    <interval_3_4>2</interval_3_4>
+    <interval_4_1>2</interval_4_1>
+    <interval_4_2>2</interval_4_2>
+    <interval_4_3>2</interval_4_3>
+    <interval_4_4>2</interval_4_4>
+    <interval_5_1>2</interval_5_1>
+    <interval_5_2>2</interval_5_2>
+    <interval_5_3>2</interval_5_3>
+    <interval_5_4>2</interval_5_4>
+    <interval_6_1>2</interval_6_1>
+    <interval_6_2>2</interval_6_2>
+    <interval_6_3>2</interval_6_3>
+    <interval_6_4>2</interval_6_4>
+    <interval_7_1>2</interval_7_1>
+    <interval_7_2>2</interval_7_2>
+    <interval_7_3>2</interval_7_3>
+    <interval_7_4>2</interval_7_4>
+    <interval_8_1>2</interval_8_1>
+    <interval_8_2>2</interval_8_2>
+    <interval_8_3>2</interval_8_3>
+    <interval_8_4>2</interval_8_4>
+    <interval_9_1>2</interval_9_1>
+    <interval_9_2>2</interval_9_2>
+    <interval_9_3>2</interval_9_3>
+    <interval_9_4>2</interval_9_4>
+    <interval_10_1>2</interval_10_1>
+    <interval_10_2>2</interval_10_2>
+    <interval_10_3>2</interval_10_3>
+    <interval_10_4>2</interval_10_4>
+    <interval_11_1>2</interval_11_1>
+    <interval_11_2>2</interval_11_2>
+    <interval_11_3>2</interval_11_3>
+    <interval_11_4>2</interval_11_4>
+    <interval_12_1>2</interval_12_1>
+    <interval_12_2>2</interval_12_2>
+    <interval_12_3>2</interval_12_3>
+    <interval_12_4>2</interval_12_4>
+    <interval_13_1>2</interval_13_1>
+    <interval_13_2>2</interval_13_2>
+    <interval_13_3>2</interval_13_3>
+    <interval_13_4>2</interval_13_4>
+    <interval_14_1>2</interval_14_1>
+    <interval_14_2>2</interval_14_2>
+    <interval_14_3>2</interval_14_3>
+    <interval_14_4>2</interval_14_4>
+    <interval_15_1>2</interval_15_1>
+    <interval_15_2>2</interval_15_2>
+    <interval_15_3>2</interval_15_3>
+    <interval_15_4>2</interval_15_4>
+    <interval_16_1>2</interval_16_1>
+    <interval_16_2>2</interval_16_2>
+    <interval_16_3>2</interval_16_3>
+    <interval_16_4>1</interval_16_4>
+    <interval_17_1>2</interval_17_1>
+    <interval_17_2>2</interval_17_2>
+    <interval_17_3>2</interval_17_3>
+    <interval_17_4>0</interval_17_4>
+    <interval_18_1>2</interval_18_1>
+    <interval_18_2>2</interval_18_2>
+    <interval_18_3>2</interval_18_3>
+    <interval_18_4>0</interval_18_4>
+    <interval_19_1>2</interval_19_1>
+    <interval_19_2>2</interval_19_2>
+    <interval_19_3>2</interval_19_3>
+    <interval_19_4>0</interval_19_4>
+    <interval_20_1>2</interval_20_1>
+    <interval_20_2>2</interval_20_2>
+    <interval_20_3>2</interval_20_3>
+    <interval_20_4>0</interval_20_4>
+    <interval_21_1>2</interval_21_1>
+    <interval_21_2>1</interval_21_2>
+    <interval_21_3>1</interval_21_3>
+    <interval_21_4>0</interval_21_4>
+    <interval_22_1>2</interval_22_1>
+    <interval_22_2>0</interval_22_2>
+    <interval_22_3>0</interval_22_3>
+    <interval_22_4>0</interval_22_4>
+    <interval_23_1>2</interval_23_1>
+    <interval_23_2>0</interval_23_2>
+    <interval_23_3>0</interval_23_3>
+    <interval_23_4>0</interval_23_4>
+    <interval_24_1>2</interval_24_1>
+    <interval_24_2>0</interval_24_2>
+    <interval_24_3>0</interval_24_3>
+    <interval_24_4>0</interval_24_4>
+    <interval_25_1>2</interval_25_1>
+    <interval_25_2>0</interval_25_2>
+    <interval_25_3>0</interval_25_3>
+    <interval_25_4>1</interval_25_4>
+    <interval_26_1>2</interval_26_1>
+    <interval_26_2>0</interval_26_2>
+    <interval_26_3>0</interval_26_3>
+    <interval_26_4>1</interval_26_4>
+    <interval_27_1>2</interval_27_1>
+    <interval_27_2>0</interval_27_2>
+    <interval_27_3>0</interval_27_3>
+    <interval_27_4>1</interval_27_4>
+    <interval_28_1>2</interval_28_1>
+    <interval_28_2>0</interval_28_2>
+    <interval_28_3>0</interval_28_3>
+    <interval_28_4>1</interval_28_4>
+    <interval_29_1>2</interval_29_1>
+    <interval_29_2>0</interval_29_2>
+    <interval_29_3>0</interval_29_3>
+    <interval_29_4>1</interval_29_4>
+    <interval_30_1>2</interval_30_1>
+    <interval_30_2>0</interval_30_2>
+    <interval_30_3>0</interval_30_3>
+    <interval_30_4>1</interval_30_4>
+    <interval_31_1>2</interval_31_1>
+    <interval_31_2>0</interval_31_2>
+    <interval_31_3>0</interval_31_3>
+    <interval_31_4>1</interval_31_4>
+    <interval_32_1>1</interval_32_1>
+    <interval_32_2>0</interval_32_2>
+    <interval_32_3>0</interval_32_3>
+    <interval_32_4>1</interval_32_4>
+    <interval_33_1>0</interval_33_1>
+    <interval_33_2>0</interval_33_2>
+    <interval_33_3>0</interval_33_3>
+    <interval_33_4>0</interval_33_4>
+    <interval_34_1>0</interval_34_1>
+    <interval_34_2>0</interval_34_2>
+    <interval_34_3>0</interval_34_3>
+    <interval_34_4>0</interval_34_4>
+    <interval_35_1>0</interval_35_1>
+    <interval_35_2>0</interval_35_2>
+    <interval_35_3>0</interval_35_3>
+    <interval_35_4>0</interval_35_4>
+    <interval_36_1>0</interval_36_1>
+    <interval_36_2>0</interval_36_2>
+    <interval_36_3>0</interval_36_3>
+    <interval_36_4>0</interval_36_4>
+    <interval_37_1>0</interval_37_1>
+    <interval_37_2>0</interval_37_2>
+    <interval_37_3>0</interval_37_3>
+    <interval_37_4>0</interval_37_4>
+    <interval_38_1>0</interval_38_1>
+    <interval_38_2>0</interval_38_2>
+    <interval_38_3>0</interval_38_3>
+    <interval_38_4>0</interval_38_4>
+    <interval_39_1>0</interval_39_1>
+    <interval_39_2>0</interval_39_2>
+    <interval_39_3>0</interval_39_3>
+    <interval_39_4>1</interval_39_4>
+    <interval_40_1>0</interval_40_1>
+    <interval_40_2>0</interval_40_2>
+    <interval_40_3>0</interval_40_3>
+    <interval_40_4>0</interval_40_4>
+    <interval_41_1>0</interval_41_1>
+    <interval_41_2>0</interval_41_2>
+    <interval_41_3>0</interval_41_3>
+    <interval_41_4>0</interval_41_4>
+    <interval_42_1>0</interval_42_1>
+    <interval_42_2>0</interval_42_2>
+    <interval_42_3>0</interval_42_3>
+    <interval_42_4>0</interval_42_4>
+    <interval_43_1>0</interval_43_1>
+    <interval_43_2>0</interval_43_2>
+    <interval_43_3>0</interval_43_3>
+    <interval_43_4>0</interval_43_4>
+    <interval_44_1>0</interval_44_1>
+    <interval_44_2>0</interval_44_2>
+    <interval_44_3>0</interval_44_3>
+    <interval_44_4>0</interval_44_4>
+    <interval_45_1>0</interval_45_1>
+    <interval_45_2>0</interval_45_2>
+    <interval_45_3>2</interval_45_3>
+    <interval_45_4>0</interval_45_4>
+    <interval_46_1>0</interval_46_1>
+    <interval_46_2>2</interval_46_2>
+    <interval_46_3>2</interval_46_3>
+    <interval_46_4>0</interval_46_4>
+    <interval_47_1>0</interval_47_1>
+    <interval_47_2>2</interval_47_2>
+    <interval_47_3>2</interval_47_3>
+    <interval_47_4>2</interval_47_4>
+    <interval_48_1>2</interval_48_1>
+    <interval_48_2>2</interval_48_2>
+    <interval_48_3>2</interval_48_3>
+    <interval_48_4>2</interval_48_4>
+  </MONDAY>
+  <TUESDAY>
+    <interval_1_1>2</interval_1_1>
+    <interval_1_2>2</interval_1_2>
+    <interval_1_3>2</interval_1_3>
+    <interval_1_4>2</interval_1_4>
+    <interval_2_1>2</interval_2_1>
+    <interval_2_2>2</interval_2_2>
+    <interval_2_3>2</interval_2_3>
+    <interval_2_4>2</interval_2_4>
+    <interval_3_1>2</interval_3_1>
+    <interval_3_2>2</interval_3_2>
+    <interval_3_3>2</interval_3_3>
+    <interval_3_4>2</interval_3_4>
+    <interval_4_1>2</interval_4_1>
+    <interval_4_2>2</interval_4_2>
+    <interval_4_3>2</interval_4_3>
+    <interval_4_4>2</interval_4_4>
+    <interval_5_1>2</interval_5_1>
+    <interval_5_2>2</interval_5_2>
+    <interval_5_3>2</interval_5_3>
+    <interval_5_4>2</interval_5_4>
+    <interval_6_1>2</interval_6_1>
+    <interval_6_2>2</interval_6_2>
+    <interval_6_3>2</interval_6_3>
+    <interval_6_4>2</interval_6_4>
+    <interval_7_1>2</interval_7_1>
+    <interval_7_2>2</interval_7_2>
+    <interval_7_3>2</interval_7_3>
+    <interval_7_4>2</interval_7_4>
+    <interval_8_1>2</interval_8_1>
+    <interval_8_2>2</interval_8_2>
+    <interval_8_3>2</interval_8_3>
+    <interval_8_4>2</interval_8_4>
+    <interval_9_1>2</interval_9_1>
+    <interval_9_2>2</interval_9_2>
+    <interval_9_3>2</interval_9_3>
+    <interval_9_4>2</interval_9_4>
+    <interval_10_1>2</interval_10_1>
+    <interval_10_2>2</interval_10_2>
+    <interval_10_3>2</interval_10_3>
+    <interval_10_4>2</interval_10_4>
+    <interval_11_1>2</interval_11_1>
+    <interval_11_2>2</interval_11_2>
+    <interval_11_3>2</interval_11_3>
+    <interval_11_4>2</interval_11_4>
+    <interval_12_1>2</interval_12_1>
+    <interval_12_2>2</interval_12_2>
+    <interval_12_3>2</interval_12_3>
+    <interval_12_4>2</interval_12_4>
+    <interval_13_1>2</interval_13_1>
+    <interval_13_2>2</interval_13_2>
+    <interval_13_3>2</interval_13_3>
+    <interval_13_4>2</interval_13_4>
+    <interval_14_1>2</interval_14_1>
+    <interval_14_2>2</interval_14_2>
+    <interval_14_3>2</interval_14_3>
+    <interval_14_4>2</interval_14_4>
+    <interval_15_1>2</interval_15_1>
+    <interval_15_2>2</interval_15_2>
+    <interval_15_3>2</interval_15_3>
+    <interval_15_4>2</interval_15_4>
+    <interval_16_1>2</interval_16_1>
+    <interval_16_2>2</interval_16_2>
+    <interval_16_3>2</interval_16_3>
+    <interval_16_4>2</interval_16_4>
+    <interval_17_1>2</interval_17_1>
+    <interval_17_2>1</interval_17_2>
+    <interval_17_3>2</interval_17_3>
+    <interval_17_4>2</interval_17_4>
+    <interval_18_1>2</interval_18_1>
+    <interval_18_2>0</interval_18_2>
+    <interval_18_3>2</interval_18_3>
+    <interval_18_4>2</interval_18_4>
+    <interval_19_1>2</interval_19_1>
+    <interval_19_2>0</interval_19_2>
+    <interval_19_3>1</interval_19_3>
+    <interval_19_4>2</interval_19_4>
+    <interval_20_1>1</interval_20_1>
+    <interval_20_2>0</interval_20_2>
+    <interval_20_3>0</interval_20_3>
+    <interval_20_4>1</interval_20_4>
+    <interval_21_1>0</interval_21_1>
     <interval_21_2>0</interval_21_2>
     <interval_21_3>0</interval_21_3>
     <interval_21_4>0</interval_21_4>
@@ -89,250 +477,444 @@
     <interval_22_2>0</interval_22_2>
     <interval_22_3>0</interval_22_3>
     <interval_22_4>0</interval_22_4>
-    <interval_23_1>-1</interval_23_1>
+    <interval_23_1>0</interval_23_1>
     <interval_23_2>0</interval_23_2>
     <interval_23_3>0</interval_23_3>
     <interval_23_4>0</interval_23_4>
-    <interval_24_1>-1</interval_24_1>
+    <interval_24_1>0</interval_24_1>
     <interval_24_2>0</interval_24_2>
     <interval_24_3>0</interval_24_3>
     <interval_24_4>0</interval_24_4>
-    <interval_25_1>-1</interval_25_1>
+    <interval_25_1>0</interval_25_1>
     <interval_25_2>0</interval_25_2>
     <interval_25_3>0</interval_25_3>
     <interval_25_4>0</interval_25_4>
     <interval_26_1>0</interval_26_1>
     <interval_26_2>0</interval_26_2>
-    <interval_26_3>2</interval_26_3>
-    <interval_26_4>2</interval_26_4>
-    <interval_27_1>-1</interval_27_1>
+    <interval_26_3>0</interval_26_3>
+    <interval_26_4>0</interval_26_4>
+    <interval_27_1>0</interval_27_1>
     <interval_27_2>0</interval_27_2>
     <interval_27_3>0</interval_27_3>
     <interval_27_4>0</interval_27_4>
-    <interval_28_1>-1</interval_28_1>
+    <interval_28_1>0</interval_28_1>
     <interval_28_2>0</interval_28_2>
     <interval_28_3>0</interval_28_3>
     <interval_28_4>0</interval_28_4>
-    <interval_29_1>-1</interval_29_1>
+    <interval_29_1>0</interval_29_1>
     <interval_29_2>0</interval_29_2>
     <interval_29_3>0</interval_29_3>
     <interval_29_4>0</interval_29_4>
-    <interval_30_1>-1</interval_30_1>
+    <interval_30_1>0</interval_30_1>
     <interval_30_2>0</interval_30_2>
     <interval_30_3>0</interval_30_3>
     <interval_30_4>0</interval_30_4>
-    <interval_31_1>-1</interval_31_1>
+    <interval_31_1>0</interval_31_1>
     <interval_31_2>0</interval_31_2>
     <interval_31_3>0</interval_31_3>
     <interval_31_4>0</interval_31_4>
     <interval_32_1>0</interval_32_1>
     <interval_32_2>0</interval_32_2>
     <interval_32_3>0</interval_32_3>
-    <interval_32_4>1</interval_32_4>
+    <interval_32_4>0</interval_32_4>
     <interval_33_1>0</interval_33_1>
-    <interval_33_2>2</interval_33_2>
+    <interval_33_2>0</interval_33_2>
     <interval_33_3>0</interval_33_3>
     <interval_33_4>0</interval_33_4>
     <interval_34_1>0</interval_34_1>
     <interval_34_2>0</interval_34_2>
     <interval_34_3>0</interval_34_3>
     <interval_34_4>0</interval_34_4>
-    <interval_35_1>-1</interval_35_1>
+    <interval_35_1>0</interval_35_1>
     <interval_35_2>0</interval_35_2>
     <interval_35_3>0</interval_35_3>
     <interval_35_4>0</interval_35_4>
-    <interval_36_1>-1</interval_36_1>
+    <interval_36_1>0</interval_36_1>
     <interval_36_2>0</interval_36_2>
     <interval_36_3>0</interval_36_3>
     <interval_36_4>0</interval_36_4>
-    <interval_37_1>-1</interval_37_1>
+    <interval_37_1>0</interval_37_1>
     <interval_37_2>0</interval_37_2>
     <interval_37_3>0</interval_37_3>
     <interval_37_4>0</interval_37_4>
-    <interval_38_1>-1</interval_38_1>
+    <interval_38_1>0</interval_38_1>
     <interval_38_2>0</interval_38_2>
     <interval_38_3>0</interval_38_3>
     <interval_38_4>0</interval_38_4>
-    <interval_39_1>-1</interval_39_1>
+    <interval_39_1>0</interval_39_1>
     <interval_39_2>0</interval_39_2>
     <interval_39_3>0</interval_39_3>
     <interval_39_4>0</interval_39_4>
-    <interval_40_1>-1</interval_40_1>
+    <interval_40_1>0</interval_40_1>
     <interval_40_2>0</interval_40_2>
     <interval_40_3>0</interval_40_3>
     <interval_40_4>0</interval_40_4>
-    <interval_41_1>-1</interval_41_1>
+    <interval_41_1>0</interval_41_1>
     <interval_41_2>0</interval_41_2>
     <interval_41_3>0</interval_41_3>
     <interval_41_4>0</interval_41_4>
-    <interval_42_1>-1</interval_42_1>
+    <interval_42_1>0</interval_42_1>
     <interval_42_2>0</interval_42_2>
     <interval_42_3>0</interval_42_3>
     <interval_42_4>0</interval_42_4>
-    <interval_43_1>-1</interval_43_1>
+    <interval_43_1>0</interval_43_1>
     <interval_43_2>0</interval_43_2>
     <interval_43_3>0</interval_43_3>
     <interval_43_4>0</interval_43_4>
-    <interval_44_1>-1</interval_44_1>
+    <interval_44_1>0</interval_44_1>
     <interval_44_2>0</interval_44_2>
     <interval_44_3>0</interval_44_3>
     <interval_44_4>0</interval_44_4>
-    <interval_45_1>-1</interval_45_1>
+    <interval_45_1>0</interval_45_1>
     <interval_45_2>0</interval_45_2>
     <interval_45_3>0</interval_45_3>
     <interval_45_4>0</interval_45_4>
-    <interval_46_1>-1</interval_46_1>
+    <interval_46_1>2</interval_46_1>
     <interval_46_2>0</interval_46_2>
     <interval_46_3>0</interval_46_3>
-    <interval_46_4>0</interval_46_4>
-    <interval_47_1>-1</interval_47_1>
+    <interval_46_4>2</interval_46_4>
+    <interval_47_1>2</interval_47_1>
     <interval_47_2>0</interval_47_2>
-    <interval_47_3>0</interval_47_3>
-    <interval_47_4>0</interval_47_4>
-    <interval_48_1>0</interval_48_1>
+    <interval_47_3>2</interval_47_3>
+    <interval_47_4>2</interval_47_4>
+    <interval_48_1>2</interval_48_1>
     <interval_48_2>0</interval_48_2>
-    <interval_48_3>0</interval_48_3>
+    <interval_48_3>2</interval_48_3>
     <interval_48_4>2</interval_48_4>
-  </SUNDAY>
-  <MONDAY>
-    <interval_1_1>0</interval_1_1>
-    <interval_1_2>0</interval_1_2>
-    <interval_1_3>0</interval_1_3>
+  </TUESDAY>
+  <WEDNESDAY>
+    <interval_1_1>2</interval_1_1>
+    <interval_1_2>2</interval_1_2>
+    <interval_1_3>2</interval_1_3>
     <interval_1_4>2</interval_1_4>
-    <interval_2_1>0</interval_2_1>
-    <interval_2_2>0</interval_2_2>
-    <interval_2_3>0</interval_2_3>
+    <interval_2_1>2</interval_2_1>
+    <interval_2_2>2</interval_2_2>
+    <interval_2_3>2</interval_2_3>
     <interval_2_4>2</interval_2_4>
-    <interval_3_1>-1</interval_3_1>
-    <interval_3_2>0</interval_3_2>
-    <interval_3_3>0</interval_3_3>
+    <interval_3_1>2</interval_3_1>
+    <interval_3_2>2</interval_3_2>
+    <interval_3_3>2</interval_3_3>
     <interval_3_4>2</interval_3_4>
-    <interval_4_1>-1</interval_4_1>
-    <interval_4_2>0</interval_4_2>
-    <interval_4_3>0</interval_4_3>
+    <interval_4_1>2</interval_4_1>
+    <interval_4_2>2</interval_4_2>
+    <interval_4_3>2</interval_4_3>
     <interval_4_4>2</interval_4_4>
-    <interval_5_1>-1</interval_5_1>
-    <interval_5_2>0</interval_5_2>
-    <interval_5_3>0</interval_5_3>
+    <interval_5_1>2</interval_5_1>
+    <interval_5_2>2</interval_5_2>
+    <interval_5_3>2</interval_5_3>
     <interval_5_4>2</interval_5_4>
-    <interval_6_1>-1</interval_6_1>
-    <interval_6_2>0</interval_6_2>
-    <interval_6_3>0</interval_6_3>
+    <interval_6_1>2</interval_6_1>
+    <interval_6_2>2</interval_6_2>
+    <interval_6_3>2</interval_6_3>
     <interval_6_4>2</interval_6_4>
-    <interval_7_1>-1</interval_7_1>
-    <interval_7_2>0</interval_7_2>
-    <interval_7_3>0</interval_7_3>
+    <interval_7_1>2</interval_7_1>
+    <interval_7_2>2</interval_7_2>
+    <interval_7_3>2</interval_7_3>
     <interval_7_4>2</interval_7_4>
-    <interval_8_1>-1</interval_8_1>
-    <interval_8_2>0</interval_8_2>
-    <interval_8_3>0</interval_8_3>
+    <interval_8_1>2</interval_8_1>
+    <interval_8_2>2</interval_8_2>
+    <interval_8_3>2</interval_8_3>
     <interval_8_4>2</interval_8_4>
-    <interval_9_1>-1</interval_9_1>
-    <interval_9_2>0</interval_9_2>
-    <interval_9_3>0</interval_9_3>
+    <interval_9_1>2</interval_9_1>
+    <interval_9_2>2</interval_9_2>
+    <interval_9_3>2</interval_9_3>
     <interval_9_4>2</interval_9_4>
-    <interval_10_1>-1</interval_10_1>
-    <interval_10_2>0</interval_10_2>
-    <interval_10_3>0</interval_10_3>
+    <interval_10_1>2</interval_10_1>
+    <interval_10_2>2</interval_10_2>
+    <interval_10_3>2</interval_10_3>
     <interval_10_4>2</interval_10_4>
-    <interval_11_1>-1</interval_11_1>
-    <interval_11_2>0</interval_11_2>
-    <interval_11_3>0</interval_11_3>
+    <interval_11_1>2</interval_11_1>
+    <interval_11_2>2</interval_11_2>
+    <interval_11_3>2</interval_11_3>
     <interval_11_4>2</interval_11_4>
-    <interval_12_1>-1</interval_12_1>
-    <interval_12_2>0</interval_12_2>
-    <interval_12_3>0</interval_12_3>
+    <interval_12_1>2</interval_12_1>
+    <interval_12_2>2</interval_12_2>
+    <interval_12_3>2</interval_12_3>
     <interval_12_4>2</interval_12_4>
-    <interval_13_1>-1</interval_13_1>
-    <interval_13_2>0</interval_13_2>
-    <interval_13_3>0</interval_13_3>
+    <interval_13_1>2</interval_13_1>
+    <interval_13_2>2</interval_13_2>
+    <interval_13_3>2</interval_13_3>
     <interval_13_4>2</interval_13_4>
-    <interval_14_1>-1</interval_14_1>
-    <interval_14_2>0</interval_14_2>
-    <interval_14_3>0</interval_14_3>
+    <interval_14_1>2</interval_14_1>
+    <interval_14_2>2</interval_14_2>
+    <interval_14_3>2</interval_14_3>
     <interval_14_4>2</interval_14_4>
-    <interval_15_1>-1</interval_15_1>
-    <interval_15_2>0</interval_15_2>
-    <interval_15_3>0</interval_15_3>
+    <interval_15_1>2</interval_15_1>
+    <interval_15_2>2</interval_15_2>
+    <interval_15_3>2</interval_15_3>
     <interval_15_4>2</interval_15_4>
-    <interval_16_1>-1</interval_16_1>
-    <interval_16_2>0</interval_16_2>
-    <interval_16_3>0</interval_16_3>
+    <interval_16_1>2</interval_16_1>
+    <interval_16_2>2</interval_16_2>
+    <interval_16_3>2</interval_16_3>
     <interval_16_4>2</interval_16_4>
-    <interval_17_1>-1</interval_17_1>
-    <interval_17_2>0</interval_17_2>
-    <interval_17_3>0</interval_17_3>
+    <interval_17_1>2</interval_17_1>
+    <interval_17_2>1</interval_17_2>
+    <interval_17_3>2</interval_17_3>
     <interval_17_4>2</interval_17_4>
-    <interval_18_1>-1</interval_18_1>
-    <interval_18_2>0</interval_18_2>
-    <interval_18_3>0</interval_18_3>
+    <interval_18_1>2</interval_18_1>
+    <interval_18_2>1</interval_18_2>
+    <interval_18_3>2</interval_18_3>
     <interval_18_4>2</interval_18_4>
-    <interval_19_1>-1</interval_19_1>
+    <interval_19_1>2</interval_19_1>
     <interval_19_2>0</interval_19_2>
-    <interval_19_3>0</interval_19_3>
+    <interval_19_3>1</interval_19_3>
     <interval_19_4>2</interval_19_4>
-    <interval_20_1>-1</interval_20_1>
+    <interval_20_1>2</interval_20_1>
     <interval_20_2>0</interval_20_2>
     <interval_20_3>0</interval_20_3>
-    <interval_20_4>2</interval_20_4>
-    <interval_21_1>-1</interval_21_1>
+    <interval_20_4>1</interval_20_4>
+    <interval_21_1>2</interval_21_1>
     <interval_21_2>0</interval_21_2>
     <interval_21_3>0</interval_21_3>
-    <interval_21_4>2</interval_21_4>
-    <interval_22_1>-1</interval_22_1>
+    <interval_21_4>0</interval_21_4>
+    <interval_22_1>0</interval_22_1>
     <interval_22_2>0</interval_22_2>
     <interval_22_3>0</interval_22_3>
-    <interval_22_4>2</interval_22_4>
-    <interval_23_1>-1</interval_23_1>
+    <interval_22_4>0</interval_22_4>
+    <interval_23_1>2</interval_23_1>
     <interval_23_2>0</interval_23_2>
     <interval_23_3>0</interval_23_3>
-    <interval_23_4>2</interval_23_4>
-    <interval_24_1>-1</interval_24_1>
+    <interval_23_4>0</interval_23_4>
+    <interval_24_1>2</interval_24_1>
     <interval_24_2>0</interval_24_2>
     <interval_24_3>0</interval_24_3>
-    <interval_24_4>2</interval_24_4>
-    <interval_25_1>-1</interval_25_1>
+    <interval_24_4>0</interval_24_4>
+    <interval_25_1>2</interval_25_1>
     <interval_25_2>0</interval_25_2>
     <interval_25_3>0</interval_25_3>
-    <interval_25_4>2</interval_25_4>
-    <interval_26_1>-1</interval_26_1>
+    <interval_25_4>0</interval_25_4>
+    <interval_26_1>2</interval_26_1>
     <interval_26_2>0</interval_26_2>
     <interval_26_3>0</interval_26_3>
-    <interval_26_4>2</interval_26_4>
-    <interval_27_1>-1</interval_27_1>
+    <interval_26_4>0</interval_26_4>
+    <interval_27_1>2</interval_27_1>
     <interval_27_2>0</interval_27_2>
     <interval_27_3>0</interval_27_3>
-    <interval_27_4>2</interval_27_4>
-    <interval_28_1>-1</interval_28_1>
+    <interval_27_4>0</interval_27_4>
+    <interval_28_1>2</interval_28_1>
     <interval_28_2>0</interval_28_2>
     <interval_28_3>0</interval_28_3>
-    <interval_28_4>2</interval_28_4>
-    <interval_29_1>-1</interval_29_1>
+    <interval_28_4>0</interval_28_4>
+    <interval_29_1>0</interval_29_1>
     <interval_29_2>0</interval_29_2>
     <interval_29_3>0</interval_29_3>
-    <interval_29_4>2</interval_29_4>
-    <interval_30_1>-1</interval_30_1>
+    <interval_29_4>0</interval_29_4>
+    <interval_30_1>2</interval_30_1>
     <interval_30_2>0</interval_30_2>
     <interval_30_3>0</interval_30_3>
-    <interval_30_4>2</interval_30_4>
-    <interval_31_1>-1</interval_31_1>
+    <interval_30_4>0</interval_30_4>
+    <interval_31_1>2</interval_31_1>
     <interval_31_2>0</interval_31_2>
     <interval_31_3>0</interval_31_3>
-    <interval_31_4>2</interval_31_4>
-    <interval_32_1>-1</interval_32_1>
+    <interval_31_4>0</interval_31_4>
+    <interval_32_1>2</interval_32_1>
     <interval_32_2>0</interval_32_2>
     <interval_32_3>0</interval_32_3>
-    <interval_32_4>1</interval_32_4>
+    <interval_32_4>0</interval_32_4>
+    <interval_33_1>2</interval_33_1>
+    <interval_33_2>0</interval_33_2>
+    <interval_33_3>0</interval_33_3>
+    <interval_33_4>0</interval_33_4>
+    <interval_34_1>2</interval_34_1>
+    <interval_34_2>0</interval_34_2>
+    <interval_34_3>0</interval_34_3>
+    <interval_34_4>0</interval_34_4>
+    <interval_35_1>2</interval_35_1>
+    <interval_35_2>0</interval_35_2>
+    <interval_35_3>0</interval_35_3>
+    <interval_35_4>0</interval_35_4>
+    <interval_36_1>2</interval_36_1>
+    <interval_36_2>0</interval_36_2>
+    <interval_36_3>0</interval_36_3>
+    <interval_36_4>0</interval_36_4>
+    <interval_37_1>2</interval_37_1>
+    <interval_37_2>0</interval_37_2>
+    <interval_37_3>0</interval_37_3>
+    <interval_37_4>0</interval_37_4>
+    <interval_38_1>2</interval_38_1>
+    <interval_38_2>0</interval_38_2>
+    <interval_38_3>0</interval_38_3>
+    <interval_38_4>0</interval_38_4>
+    <interval_39_1>2</interval_39_1>
+    <interval_39_2>0</interval_39_2>
+    <interval_39_3>0</interval_39_3>
+    <interval_39_4>0</interval_39_4>
+    <interval_40_1>2</interval_40_1>
+    <interval_40_2>0</interval_40_2>
+    <interval_40_3>0</interval_40_3>
+    <interval_40_4>0</interval_40_4>
+    <interval_41_1>2</interval_41_1>
+    <interval_41_2>0</interval_41_2>
+    <interval_41_3>0</interval_41_3>
+    <interval_41_4>0</interval_41_4>
+    <interval_42_1>2</interval_42_1>
+    <interval_42_2>0</interval_42_2>
+    <interval_42_3>0</interval_42_3>
+    <interval_42_4>0</interval_42_4>
+    <interval_43_1>2</interval_43_1>
+    <interval_43_2>0</interval_43_2>
+    <interval_43_3>0</interval_43_3>
+    <interval_43_4>0</interval_43_4>
+    <interval_44_1>2</interval_44_1>
+    <interval_44_2>0</interval_44_2>
+    <interval_44_3>0</interval_44_3>
+    <interval_44_4>0</interval_44_4>
+    <interval_45_1>2</interval_45_1>
+    <interval_45_2>0</interval_45_2>
+    <interval_45_3>0</interval_45_3>
+    <interval_45_4>0</interval_45_4>
+    <interval_46_1>2</interval_46_1>
+    <interval_46_2>2</interval_46_2>
+    <interval_46_3>0</interval_46_3>
+    <interval_46_4>0</interval_46_4>
+    <interval_47_1>2</interval_47_1>
+    <interval_47_2>2</interval_47_2>
+    <interval_47_3>0</interval_47_3>
+    <interval_47_4>0</interval_47_4>
+    <interval_48_1>2</interval_48_1>
+    <interval_48_2>2</interval_48_2>
+    <interval_48_3>0</interval_48_3>
+    <interval_48_4>0</interval_48_4>
+  </WEDNESDAY>
+  <THURSDAY>
+    <interval_1_1>2</interval_1_1>
+    <interval_1_2>2</interval_1_2>
+    <interval_1_3>2</interval_1_3>
+    <interval_1_4>0</interval_1_4>
+    <interval_2_1>2</interval_2_1>
+    <interval_2_2>2</interval_2_2>
+    <interval_2_3>2</interval_2_3>
+    <interval_2_4>2</interval_2_4>
+    <interval_3_1>2</interval_3_1>
+    <interval_3_2>2</interval_3_2>
+    <interval_3_3>2</interval_3_3>
+    <interval_3_4>2</interval_3_4>
+    <interval_4_1>2</interval_4_1>
+    <interval_4_2>2</interval_4_2>
+    <interval_4_3>2</interval_4_3>
+    <interval_4_4>2</interval_4_4>
+    <interval_5_1>2</interval_5_1>
+    <interval_5_2>2</interval_5_2>
+    <interval_5_3>2</interval_5_3>
+    <interval_5_4>2</interval_5_4>
+    <interval_6_1>2</interval_6_1>
+    <interval_6_2>2</interval_6_2>
+    <interval_6_3>2</interval_6_3>
+    <interval_6_4>2</interval_6_4>
+    <interval_7_1>2</interval_7_1>
+    <interval_7_2>2</interval_7_2>
+    <interval_7_3>2</interval_7_3>
+    <interval_7_4>2</interval_7_4>
+    <interval_8_1>2</interval_8_1>
+    <interval_8_2>2</interval_8_2>
+    <interval_8_3>2</interval_8_3>
+    <interval_8_4>2</interval_8_4>
+    <interval_9_1>2</interval_9_1>
+    <interval_9_2>2</interval_9_2>
+    <interval_9_3>2</interval_9_3>
+    <interval_9_4>2</interval_9_4>
+    <interval_10_1>2</interval_10_1>
+    <interval_10_2>2</interval_10_2>
+    <interval_10_3>2</interval_10_3>
+    <interval_10_4>2</interval_10_4>
+    <interval_11_1>2</interval_11_1>
+    <interval_11_2>2</interval_11_2>
+    <interval_11_3>2</interval_11_3>
+    <interval_11_4>2</interval_11_4>
+    <interval_12_1>2</interval_12_1>
+    <interval_12_2>2</interval_12_2>
+    <interval_12_3>2</interval_12_3>
+    <interval_12_4>2</interval_12_4>
+    <interval_13_1>2</interval_13_1>
+    <interval_13_2>2</interval_13_2>
+    <interval_13_3>2</interval_13_3>
+    <interval_13_4>2</interval_13_4>
+    <interval_14_1>2</interval_14_1>
+    <interval_14_2>2</interval_14_2>
+    <interval_14_3>2</interval_14_3>
+    <interval_14_4>2</interval_14_4>
+    <interval_15_1>2</interval_15_1>
+    <interval_15_2>2</interval_15_2>
+    <interval_15_3>2</interval_15_3>
+    <interval_15_4>2</interval_15_4>
+    <interval_16_1>2</interval_16_1>
+    <interval_16_2>2</interval_16_2>
+    <interval_16_3>2</interval_16_3>
+    <interval_16_4>2</interval_16_4>
+    <interval_17_1>2</interval_17_1>
+    <interval_17_2>2</interval_17_2>
+    <interval_17_3>1</interval_17_3>
+    <interval_17_4>2</interval_17_4>
+    <interval_18_1>2</interval_18_1>
+    <interval_18_2>1</interval_18_2>
+    <interval_18_3>0</interval_18_3>
+    <interval_18_4>2</interval_18_4>
+    <interval_19_1>2</interval_19_1>
+    <interval_19_2>0</interval_19_2>
+    <interval_19_3>0</interval_19_3>
+    <interval_19_4>1</interval_19_4>
+    <interval_20_1>2</interval_20_1>
+    <interval_20_2>0</interval_20_2>
+    <interval_20_3>0</interval_20_3>
+    <interval_20_4>0</interval_20_4>
+    <interval_21_1>1</interval_21_1>
+    <interval_21_2>0</interval_21_2>
+    <interval_21_3>0</interval_21_3>
+    <interval_21_4>0</interval_21_4>
+    <interval_22_1>0</interval_22_1>
+    <interval_22_2>0</interval_22_2>
+    <interval_22_3>0</interval_22_3>
+    <interval_22_4>0</interval_22_4>
+    <interval_23_1>0</interval_23_1>
+    <interval_23_2>0</interval_23_2>
+    <interval_23_3>0</interval_23_3>
+    <interval_23_4>0</interval_23_4>
+    <interval_24_1>0</interval_24_1>
+    <interval_24_2>0</interval_24_2>
+    <interval_24_3>0</interval_24_3>
+    <interval_24_4>0</interval_24_4>
+    <interval_25_1>0</interval_25_1>
+    <interval_25_2>0</interval_25_2>
+    <interval_25_3>0</interval_25_3>
+    <interval_25_4>0</interval_25_4>
+    <interval_26_1>0</interval_26_1>
+    <interval_26_2>0</interval_26_2>
+    <interval_26_3>0</interval_26_3>
+    <interval_26_4>0</interval_26_4>
+    <interval_27_1>0</interval_27_1>
+    <interval_27_2>0</interval_27_2>
+    <interval_27_3>0</interval_27_3>
+    <interval_27_4>0</interval_27_4>
+    <interval_28_1>0</interval_28_1>
+    <interval_28_2>0</interval_28_2>
+    <interval_28_3>0</interval_28_3>
+    <interval_28_4>0</interval_28_4>
+    <interval_29_1>0</interval_29_1>
+    <interval_29_2>0</interval_29_2>
+    <interval_29_3>0</interval_29_3>
+    <interval_29_4>0</interval_29_4>
+    <interval_30_1>0</interval_30_1>
+    <interval_30_2>0</interval_30_2>
+    <interval_30_3>0</interval_30_3>
+    <interval_30_4>0</interval_30_4>
+    <interval_31_1>0</interval_31_1>
+    <interval_31_2>0</interval_31_2>
+    <interval_31_3>0</interval_31_3>
+    <interval_31_4>0</interval_31_4>
+    <interval_32_1>0</interval_32_1>
+    <interval_32_2>0</interval_32_2>
+    <interval_32_3>0</interval_32_3>
+    <interval_32_4>0</interval_32_4>
     <interval_33_1>0</interval_33_1>
     <interval_33_2>0</interval_33_2>
-    <interval_33_3>1</interval_33_3>
+    <interval_33_3>0</interval_33_3>
     <interval_33_4>0</interval_33_4>
     <interval_34_1>0</interval_34_1>
-    <interval_34_2>1</interval_34_2>
+    <interval_34_2>0</interval_34_2>
     <interval_34_3>0</interval_34_3>
     <interval_34_4>0</interval_34_4>
     <interval_35_1>0</interval_35_1>
-    <interval_35_2>1</interval_35_2>
+    <interval_35_2>2</interval_35_2>
     <interval_35_3>0</interval_35_3>
     <interval_35_4>0</interval_35_4>
     <interval_36_1>0</interval_36_1>
@@ -340,616 +922,228 @@
     <interval_36_3>0</interval_36_3>
     <interval_36_4>0</interval_36_4>
     <interval_37_1>0</interval_37_1>
-    <interval_37_2>1</interval_37_2>
-    <interval_37_3>2</interval_37_3>
-    <interval_37_4>0</interval_37_4>
-    <interval_38_1>0</interval_38_1>
-    <interval_38_2>1</interval_38_2>
-    <interval_38_3>2</interval_38_3>
-    <interval_38_4>0</interval_38_4>
-    <interval_39_1>-1</interval_39_1>
-    <interval_39_2>1</interval_39_2>
-    <interval_39_3>2</interval_39_3>
-    <interval_39_4>0</interval_39_4>
-    <interval_40_1>-1</interval_40_1>
-    <interval_40_2>1</interval_40_2>
-    <interval_40_3>2</interval_40_3>
-    <interval_40_4>0</interval_40_4>
-    <interval_41_1>-1</interval_41_1>
-    <interval_41_2>1</interval_41_2>
-    <interval_41_3>2</interval_41_3>
-    <interval_41_4>0</interval_41_4>
-    <interval_42_1>-1</interval_42_1>
-    <interval_42_2>1</interval_42_2>
-    <interval_42_3>2</interval_42_3>
-    <interval_42_4>0</interval_42_4>
-    <interval_43_1>-1</interval_43_1>
-    <interval_43_2>-1</interval_43_2>
-    <interval_43_3>1</interval_43_3>
-    <interval_43_4>0</interval_43_4>
-    <interval_44_1>-1</interval_44_1>
-    <interval_44_2>-1</interval_44_2>
-    <interval_44_3>1</interval_44_3>
-    <interval_44_4>0</interval_44_4>
-    <interval_45_1>-1</interval_45_1>
-    <interval_45_2>-1</interval_45_2>
-    <interval_45_3>1</interval_45_3>
-    <interval_45_4>0</interval_45_4>
-    <interval_46_1>-1</interval_46_1>
-    <interval_46_2>-1</interval_46_2>
-    <interval_46_3>1</interval_46_3>
-    <interval_46_4>0</interval_46_4>
-    <interval_47_1>-1</interval_47_1>
-    <interval_47_2>-1</interval_47_2>
-    <interval_47_3>1</interval_47_3>
-    <interval_47_4>0</interval_47_4>
-    <interval_48_1>0</interval_48_1>
-    <interval_48_2>0</interval_48_2>
-    <interval_48_3>1</interval_48_3>
-    <interval_48_4>2</interval_48_4>
-  </MONDAY>
-  <TUESDAY>
-    <interval_1_1>-1</interval_1_1>
-    <interval_1_2>-1</interval_1_2>
-    <interval_1_3>2</interval_1_3>
-    <interval_1_4>2</interval_1_4>
-    <interval_2_1>-1</interval_2_1>
-    <interval_2_2>-1</interval_2_2>
-    <interval_2_3>2</interval_2_3>
-    <interval_2_4>2</interval_2_4>
-    <interval_3_1>-1</interval_3_1>
-    <interval_3_2>-1</interval_3_2>
-    <interval_3_3>2</interval_3_3>
-    <interval_3_4>2</interval_3_4>
-    <interval_4_1>-1</interval_4_1>
-    <interval_4_2>-1</interval_4_2>
-    <interval_4_3>2</interval_4_3>
-    <interval_4_4>2</interval_4_4>
-    <interval_5_1>-1</interval_5_1>
-    <interval_5_2>-1</interval_5_2>
-    <interval_5_3>2</interval_5_3>
-    <interval_5_4>2</interval_5_4>
-    <interval_6_1>-1</interval_6_1>
-    <interval_6_2>-1</interval_6_2>
-    <interval_6_3>2</interval_6_3>
-    <interval_6_4>2</interval_6_4>
-    <interval_7_1>-1</interval_7_1>
-    <interval_7_2>-1</interval_7_2>
-    <interval_7_3>2</interval_7_3>
-    <interval_7_4>2</interval_7_4>
-    <interval_8_1>-1</interval_8_1>
-    <interval_8_2>-1</interval_8_2>
-    <interval_8_3>2</interval_8_3>
-    <interval_8_4>2</interval_8_4>
-    <interval_9_1>-1</interval_9_1>
-    <interval_9_2>-1</interval_9_2>
-    <interval_9_3>2</interval_9_3>
-    <interval_9_4>2</interval_9_4>
-    <interval_10_1>-1</interval_10_1>
-    <interval_10_2>-1</interval_10_2>
-    <interval_10_3>2</interval_10_3>
-    <interval_10_4>2</interval_10_4>
-    <interval_11_1>-1</interval_11_1>
-    <interval_11_2>-1</interval_11_2>
-    <interval_11_3>2</interval_11_3>
-    <interval_11_4>2</interval_11_4>
-    <interval_12_1>-1</interval_12_1>
-    <interval_12_2>-1</interval_12_2>
-    <interval_12_3>2</interval_12_3>
-    <interval_12_4>2</interval_12_4>
-    <interval_13_1>-1</interval_13_1>
-    <interval_13_2>-1</interval_13_2>
-    <interval_13_3>2</interval_13_3>
-    <interval_13_4>2</interval_13_4>
-    <interval_14_1>-1</interval_14_1>
-    <interval_14_2>-1</interval_14_2>
-    <interval_14_3>2</interval_14_3>
-    <interval_14_4>2</interval_14_4>
-    <interval_15_1>-1</interval_15_1>
-    <interval_15_2>-1</interval_15_2>
-    <interval_15_3>2</interval_15_3>
-    <interval_15_4>2</interval_15_4>
-    <interval_16_1>-1</interval_16_1>
-    <interval_16_2>-1</interval_16_2>
-    <interval_16_3>2</interval_16_3>
-    <interval_16_4>2</interval_16_4>
-    <interval_17_1>-1</interval_17_1>
-    <interval_17_2>-1</interval_17_2>
-    <interval_17_3>2</interval_17_3>
-    <interval_17_4>2</interval_17_4>
-    <interval_18_1>-1</interval_18_1>
-    <interval_18_2>-1</interval_18_2>
-    <interval_18_3>2</interval_18_3>
-    <interval_18_4>2</interval_18_4>
-    <interval_19_1>-1</interval_19_1>
-    <interval_19_2>-1</interval_19_2>
-    <interval_19_3>2</interval_19_3>
-    <interval_19_4>2</interval_19_4>
-    <interval_20_1>-1</interval_20_1>
-    <interval_20_2>-1</interval_20_2>
-    <interval_20_3>2</interval_20_3>
-    <interval_20_4>1</interval_20_4>
-    <interval_21_1>-1</interval_21_1>
-    <interval_21_2>-1</interval_21_2>
-    <interval_21_3>2</interval_21_3>
-    <interval_21_4>0</interval_21_4>
-    <interval_22_1>-1</interval_22_1>
-    <interval_22_2>-1</interval_22_2>
-    <interval_22_3>2</interval_22_3>
-    <interval_22_4>0</interval_22_4>
-    <interval_23_1>-1</interval_23_1>
-    <interval_23_2>-1</interval_23_2>
-    <interval_23_3>2</interval_23_3>
-    <interval_23_4>0</interval_23_4>
-    <interval_24_1>-1</interval_24_1>
-    <interval_24_2>-1</interval_24_2>
-    <interval_24_3>2</interval_24_3>
-    <interval_24_4>0</interval_24_4>
-    <interval_25_1>-1</interval_25_1>
-    <interval_25_2>-1</interval_25_2>
-    <interval_25_3>2</interval_25_3>
-    <interval_25_4>0</interval_25_4>
-    <interval_26_1>-1</interval_26_1>
-    <interval_26_2>-1</interval_26_2>
-    <interval_26_3>2</interval_26_3>
-    <interval_26_4>0</interval_26_4>
-    <interval_27_1>-1</interval_27_1>
-    <interval_27_2>-1</interval_27_2>
-    <interval_27_3>2</interval_27_3>
-    <interval_27_4>0</interval_27_4>
-    <interval_28_1>-1</interval_28_1>
-    <interval_28_2>-1</interval_28_2>
-    <interval_28_3>2</interval_28_3>
-    <interval_28_4>0</interval_28_4>
-    <interval_29_1>-1</interval_29_1>
-    <interval_29_2>2</interval_29_2>
-    <interval_29_3>2</interval_29_3>
-    <interval_29_4>0</interval_29_4>
-    <interval_30_1>-1</interval_30_1>
-    <interval_30_2>-1</interval_30_2>
-    <interval_30_3>2</interval_30_3>
-    <interval_30_4>0</interval_30_4>
-    <interval_31_1>-1</interval_31_1>
-    <interval_31_2>-1</interval_31_2>
-    <interval_31_3>2</interval_31_3>
-    <interval_31_4>0</interval_31_4>
-    <interval_32_1>-1</interval_32_1>
-    <interval_32_2>-1</interval_32_2>
-    <interval_32_3>2</interval_32_3>
-    <interval_32_4>0</interval_32_4>
-    <interval_33_1>-1</interval_33_1>
-    <interval_33_2>-1</interval_33_2>
-    <interval_33_3>2</interval_33_3>
-    <interval_33_4>0</interval_33_4>
-    <interval_34_1>-1</interval_34_1>
-    <interval_34_2>-1</interval_34_2>
-    <interval_34_3>2</interval_34_3>
-    <interval_34_4>0</interval_34_4>
-    <interval_35_1>-1</interval_35_1>
-    <interval_35_2>-1</interval_35_2>
-    <interval_35_3>2</interval_35_3>
-    <interval_35_4>0</interval_35_4>
-    <interval_36_1>-1</interval_36_1>
-    <interval_36_2>-1</interval_36_2>
-    <interval_36_3>2</interval_36_3>
-    <interval_36_4>0</interval_36_4>
-    <interval_37_1>-1</interval_37_1>
-    <interval_37_2>-1</interval_37_2>
-    <interval_37_3>2</interval_37_3>
-    <interval_37_4>0</interval_37_4>
-    <interval_38_1>-1</interval_38_1>
-    <interval_38_2>-1</interval_38_2>
-    <interval_38_3>2</interval_38_3>
-    <interval_38_4>0</interval_38_4>
-    <interval_39_1>-1</interval_39_1>
-    <interval_39_2>-1</interval_39_2>
-    <interval_39_3>2</interval_39_3>
-    <interval_39_4>0</interval_39_4>
-    <interval_40_1>-1</interval_40_1>
-    <interval_40_2>-1</interval_40_2>
-    <interval_40_3>2</interval_40_3>
-    <interval_40_4>0</interval_40_4>
-    <interval_41_1>-1</interval_41_1>
-    <interval_41_2>-1</interval_41_2>
-    <interval_41_3>2</interval_41_3>
-    <interval_41_4>0</interval_41_4>
-    <interval_42_1>-1</interval_42_1>
-    <interval_42_2>-1</interval_42_2>
-    <interval_42_3>2</interval_42_3>
-    <interval_42_4>0</interval_42_4>
-    <interval_43_1>-1</interval_43_1>
-    <interval_43_2>-1</interval_43_2>
-    <interval_43_3>2</interval_43_3>
-    <interval_43_4>0</interval_43_4>
-    <interval_44_1>-1</interval_44_1>
-    <interval_44_2>-1</interval_44_2>
-    <interval_44_3>2</interval_44_3>
-    <interval_44_4>0</interval_44_4>
-    <interval_45_1>-1</interval_45_1>
-    <interval_45_2>-1</interval_45_2>
-    <interval_45_3>2</interval_45_3>
-    <interval_45_4>0</interval_45_4>
-    <interval_46_1>-1</interval_46_1>
-    <interval_46_2>-1</interval_46_2>
-    <interval_46_3>2</interval_46_3>
-    <interval_46_4>2</interval_46_4>
-    <interval_47_1>-1</interval_47_1>
-    <interval_47_2>-1</interval_47_2>
-    <interval_47_3>2</interval_47_3>
-    <interval_47_4>2</interval_47_4>
-    <interval_48_1>-1</interval_48_1>
-    <interval_48_2>1</interval_48_2>
-    <interval_48_3>2</interval_48_3>
-    <interval_48_4>2</interval_48_4>
-  </TUESDAY>
-  <WEDNESDAY>
-    <interval_1_1>-1</interval_1_1>
-    <interval_1_2>-1</interval_1_2>
-    <interval_1_3>2</interval_1_3>
-    <interval_1_4>2</interval_1_4>
-    <interval_2_1>-1</interval_2_1>
-    <interval_2_2>-1</interval_2_2>
-    <interval_2_3>2</interval_2_3>
-    <interval_2_4>2</interval_2_4>
-    <interval_3_1>-1</interval_3_1>
-    <interval_3_2>-1</interval_3_2>
-    <interval_3_3>2</interval_3_3>
-    <interval_3_4>2</interval_3_4>
-    <interval_4_1>-1</interval_4_1>
-    <interval_4_2>-1</interval_4_2>
-    <interval_4_3>2</interval_4_3>
-    <interval_4_4>2</interval_4_4>
-    <interval_5_1>-1</interval_5_1>
-    <interval_5_2>-1</interval_5_2>
-    <interval_5_3>2</interval_5_3>
-    <interval_5_4>2</interval_5_4>
-    <interval_6_1>-1</interval_6_1>
-    <interval_6_2>-1</interval_6_2>
-    <interval_6_3>2</interval_6_3>
-    <interval_6_4>2</interval_6_4>
-    <interval_7_1>-1</interval_7_1>
-    <interval_7_2>-1</interval_7_2>
-    <interval_7_3>2</interval_7_3>
-    <interval_7_4>2</interval_7_4>
-    <interval_8_1>-1</interval_8_1>
-    <interval_8_2>-1</interval_8_2>
-    <interval_8_3>2</interval_8_3>
-    <interval_8_4>2</interval_8_4>
-    <interval_9_1>-1</interval_9_1>
-    <interval_9_2>-1</interval_9_2>
-    <interval_9_3>2</interval_9_3>
-    <interval_9_4>2</interval_9_4>
-    <interval_10_1>-1</interval_10_1>
-    <interval_10_2>-1</interval_10_2>
-    <interval_10_3>2</interval_10_3>
-    <interval_10_4>2</interval_10_4>
-    <interval_11_1>-1</interval_11_1>
-    <interval_11_2>-1</interval_11_2>
-    <interval_11_3>2</interval_11_3>
-    <interval_11_4>2</interval_11_4>
-    <interval_12_1>-1</interval_12_1>
-    <interval_12_2>-1</interval_12_2>
-    <interval_12_3>2</interval_12_3>
-    <interval_12_4>2</interval_12_4>
-    <interval_13_1>-1</interval_13_1>
-    <interval_13_2>-1</interval_13_2>
-    <interval_13_3>2</interval_13_3>
-    <interval_13_4>2</interval_13_4>
-    <interval_14_1>-1</interval_14_1>
-    <interval_14_2>-1</interval_14_2>
-    <interval_14_3>2</interval_14_3>
-    <interval_14_4>2</interval_14_4>
-    <interval_15_1>-1</interval_15_1>
-    <interval_15_2>-1</interval_15_2>
-    <interval_15_3>2</interval_15_3>
-    <interval_15_4>2</interval_15_4>
-    <interval_16_1>-1</interval_16_1>
-    <interval_16_2>-1</interval_16_2>
-    <interval_16_3>2</interval_16_3>
-    <interval_16_4>2</interval_16_4>
-    <interval_17_1>-1</interval_17_1>
-    <interval_17_2>-1</interval_17_2>
-    <interval_17_3>2</interval_17_3>
-    <interval_17_4>1</interval_17_4>
-    <interval_18_1>-1</interval_18_1>
-    <interval_18_2>-1</interval_18_2>
-    <interval_18_3>2</interval_18_3>
-    <interval_18_4>1</interval_18_4>
-    <interval_19_1>-1</interval_19_1>
-    <interval_19_2>-1</interval_19_2>
-    <interval_19_3>2</interval_19_3>
-    <interval_19_4>0</interval_19_4>
-    <interval_20_1>-1</interval_20_1>
-    <interval_20_2>-1</interval_20_2>
-    <interval_20_3>2</interval_20_3>
-    <interval_20_4>0</interval_20_4>
-    <interval_21_1>-1</interval_21_1>
-    <interval_21_2>-1</interval_21_2>
-    <interval_21_3>2</interval_21_3>
-    <interval_21_4>0</interval_21_4>
-    <interval_22_1>-1</interval_22_1>
-    <interval_22_2>-1</interval_22_2>
-    <interval_22_3>2</interval_22_3>
-    <interval_22_4>0</interval_22_4>
-    <interval_23_1>-1</interval_23_1>
-    <interval_23_2>-1</interval_23_2>
-    <interval_23_3>2</interval_23_3>
-    <interval_23_4>0</interval_23_4>
-    <interval_24_1>-1</interval_24_1>
-    <interval_24_2>-1</interval_24_2>
-    <interval_24_3>2</interval_24_3>
-    <interval_24_4>0</interval_24_4>
-    <interval_25_1>-1</interval_25_1>
-    <interval_25_2>-1</interval_25_2>
-    <interval_25_3>2</interval_25_3>
-    <interval_25_4>0</interval_25_4>
-    <interval_26_1>-1</interval_26_1>
-    <interval_26_2>-1</interval_26_2>
-    <interval_26_3>2</interval_26_3>
-    <interval_26_4>0</interval_26_4>
-    <interval_27_1>-1</interval_27_1>
-    <interval_27_2>-1</interval_27_2>
-    <interval_27_3>2</interval_27_3>
-    <interval_27_4>0</interval_27_4>
-    <interval_28_1>-1</interval_28_1>
-    <interval_28_2>-1</interval_28_2>
-    <interval_28_3>2</interval_28_3>
-    <interval_28_4>0</interval_28_4>
-    <interval_29_1>-1</interval_29_1>
-    <interval_29_2>-1</interval_29_2>
-    <interval_29_3>2</interval_29_3>
-    <interval_29_4>0</interval_29_4>
-    <interval_30_1>-1</interval_30_1>
-    <interval_30_2>-1</interval_30_2>
-    <interval_30_3>2</interval_30_3>
-    <interval_30_4>0</interval_30_4>
-    <interval_31_1>-1</interval_31_1>
-    <interval_31_2>-1</interval_31_2>
-    <interval_31_3>2</interval_31_3>
-    <interval_31_4>0</interval_31_4>
-    <interval_32_1>-1</interval_32_1>
-    <interval_32_2>-1</interval_32_2>
-    <interval_32_3>2</interval_32_3>
-    <interval_32_4>0</interval_32_4>
-    <interval_33_1>-1</interval_33_1>
-    <interval_33_2>-1</interval_33_2>
-    <interval_33_3>2</interval_33_3>
-    <interval_33_4>0</interval_33_4>
-    <interval_34_1>-1</interval_34_1>
-    <interval_34_2>-1</interval_34_2>
-    <interval_34_3>2</interval_34_3>
-    <interval_34_4>0</interval_34_4>
-    <interval_35_1>-1</interval_35_1>
-    <interval_35_2>-1</interval_35_2>
-    <interval_35_3>2</interval_35_3>
-    <interval_35_4>0</interval_35_4>
-    <interval_36_1>-1</interval_36_1>
-    <interval_36_2>-1</interval_36_2>
-    <interval_36_3>2</interval_36_3>
-    <interval_36_4>0</interval_36_4>
-    <interval_37_1>-1</interval_37_1>
-    <interval_37_2>-1</interval_37_2>
-    <interval_37_3>2</interval_37_3>
-    <interval_37_4>0</interval_37_4>
-    <interval_38_1>-1</interval_38_1>
-    <interval_38_2>-1</interval_38_2>
-    <interval_38_3>2</interval_38_3>
-    <interval_38_4>0</interval_38_4>
-    <interval_39_1>-1</interval_39_1>
-    <interval_39_2>-1</interval_39_2>
-    <interval_39_3>2</interval_39_3>
-    <interval_39_4>0</interval_39_4>
-    <interval_40_1>-1</interval_40_1>
-    <interval_40_2>-1</interval_40_2>
-    <interval_40_3>2</interval_40_3>
-    <interval_40_4>0</interval_40_4>
-    <interval_41_1>-1</interval_41_1>
-    <interval_41_2>-1</interval_41_2>
-    <interval_41_3>2</interval_41_3>
-    <interval_41_4>0</interval_41_4>
-    <interval_42_1>-1</interval_42_1>
-    <interval_42_2>-1</interval_42_2>
-    <interval_42_3>2</interval_42_3>
-    <interval_42_4>0</interval_42_4>
-    <interval_43_1>-1</interval_43_1>
-    <interval_43_2>-1</interval_43_2>
-    <interval_43_3>2</interval_43_3>
-    <interval_43_4>0</interval_43_4>
-    <interval_44_1>-1</interval_44_1>
-    <interval_44_2>-1</interval_44_2>
-    <interval_44_3>2</interval_44_3>
-    <interval_44_4>0</interval_44_4>
-    <interval_45_1>-1</interval_45_1>
-    <interval_45_2>-1</interval_45_2>
-    <interval_45_3>2</interval_45_3>
-    <interval_45_4>0</interval_45_4>
-    <interval_46_1>-1</interval_46_1>
-    <interval_46_2>-1</interval_46_2>
-    <interval_46_3>2</interval_46_3>
-    <interval_46_4>2</interval_46_4>
-    <interval_47_1>-1</interval_47_1>
-    <interval_47_2>-1</interval_47_2>
-    <interval_47_3>2</interval_47_3>
-    <interval_47_4>2</interval_47_4>
-    <interval_48_1>-1</interval_48_1>
-    <interval_48_2>-1</interval_48_2>
-    <interval_48_3>2</interval_48_3>
-    <interval_48_4>2</interval_48_4>
-  </WEDNESDAY>
-  <THURSDAY>
-    <interval_1_1>-1</interval_1_1>
-    <interval_1_2>-1</interval_1_2>
-    <interval_1_3>2</interval_1_3>
-    <interval_1_4>2</interval_1_4>
-    <interval_2_1>-1</interval_2_1>
-    <interval_2_2>-1</interval_2_2>
-    <interval_2_3>2</interval_2_3>
-    <interval_2_4>2</interval_2_4>
-    <interval_3_1>-1</interval_3_1>
-    <interval_3_2>-1</interval_3_2>
-    <interval_3_3>2</interval_3_3>
-    <interval_3_4>2</interval_3_4>
-    <interval_4_1>-1</interval_4_1>
-    <interval_4_2>-1</interval_4_2>
-    <interval_4_3>2</interval_4_3>
-    <interval_4_4>2</interval_4_4>
-    <interval_5_1>-1</interval_5_1>
-    <interval_5_2>-1</interval_5_2>
-    <interval_5_3>2</interval_5_3>
-    <interval_5_4>2</interval_5_4>
-    <interval_6_1>-1</interval_6_1>
-    <interval_6_2>-1</interval_6_2>
-    <interval_6_3>2</interval_6_3>
-    <interval_6_4>2</interval_6_4>
-    <interval_7_1>-1</interval_7_1>
-    <interval_7_2>-1</interval_7_2>
-    <interval_7_3>2</interval_7_3>
-    <interval_7_4>2</interval_7_4>
-    <interval_8_1>-1</interval_8_1>
-    <interval_8_2>-1</interval_8_2>
-    <interval_8_3>2</interval_8_3>
-    <interval_8_4>2</interval_8_4>
-    <interval_9_1>-1</interval_9_1>
-    <interval_9_2>-1</interval_9_2>
-    <interval_9_3>2</interval_9_3>
-    <interval_9_4>2</interval_9_4>
-    <interval_10_1>-1</interval_10_1>
-    <interval_10_2>-1</interval_10_2>
-    <interval_10_3>2</interval_10_3>
-    <interval_10_4>2</interval_10_4>
-    <interval_11_1>-1</interval_11_1>
-    <interval_11_2>-1</interval_11_2>
-    <interval_11_3>2</interval_11_3>
-    <interval_11_4>2</interval_11_4>
-    <interval_12_1>-1</interval_12_1>
-    <interval_12_2>-1</interval_12_2>
-    <interval_12_3>2</interval_12_3>
-    <interval_12_4>2</interval_12_4>
-    <interval_13_1>-1</interval_13_1>
-    <interval_13_2>-1</interval_13_2>
-    <interval_13_3>2</interval_13_3>
-    <interval_13_4>2</interval_13_4>
-    <interval_14_1>-1</interval_14_1>
-    <interval_14_2>-1</interval_14_2>
-    <interval_14_3>2</interval_14_3>
-    <interval_14_4>2</interval_14_4>
-    <interval_15_1>-1</interval_15_1>
-    <interval_15_2>-1</interval_15_2>
-    <interval_15_3>2</interval_15_3>
-    <interval_15_4>2</interval_15_4>
-    <interval_16_1>-1</interval_16_1>
-    <interval_16_2>-1</interval_16_2>
-    <interval_16_3>2</interval_16_3>
-    <interval_16_4>2</interval_16_4>
-    <interval_17_1>-1</interval_17_1>
-    <interval_17_2>-1</interval_17_2>
-    <interval_17_3>2</interval_17_3>
-    <interval_17_4>2</interval_17_4>
-    <interval_18_1>-1</interval_18_1>
-    <interval_18_2>-1</interval_18_2>
-    <interval_18_3>2</interval_18_3>
-    <interval_18_4>2</interval_18_4>
-    <interval_19_1>-1</interval_19_1>
-    <interval_19_2>-1</interval_19_2>
-    <interval_19_3>2</interval_19_3>
-    <interval_19_4>2</interval_19_4>
-    <interval_20_1>-1</interval_20_1>
-    <interval_20_2>-1</interval_20_2>
-    <interval_20_3>2</interval_20_3>
-    <interval_20_4>2</interval_20_4>
-    <interval_21_1>-1</interval_21_1>
-    <interval_21_2>-1</interval_21_2>
-    <interval_21_3>2</interval_21_3>
-    <interval_21_4>1</interval_21_4>
-    <interval_22_1>-1</interval_22_1>
-    <interval_22_2>-1</interval_22_2>
-    <interval_22_3>2</interval_22_3>
-    <interval_22_4>0</interval_22_4>
-    <interval_23_1>-1</interval_23_1>
-    <interval_23_2>-1</interval_23_2>
-    <interval_23_3>2</interval_23_3>
-    <interval_23_4>0</interval_23_4>
-    <interval_24_1>-1</interval_24_1>
-    <interval_24_2>-1</interval_24_2>
-    <interval_24_3>2</interval_24_3>
-    <interval_24_4>0</interval_24_4>
-    <interval_25_1>-1</interval_25_1>
-    <interval_25_2>-1</interval_25_2>
-    <interval_25_3>2</interval_25_3>
-    <interval_25_4>0</interval_25_4>
-    <interval_26_1>-1</interval_26_1>
-    <interval_26_2>-1</interval_26_2>
-    <interval_26_3>2</interval_26_3>
-    <interval_26_4>0</interval_26_4>
-    <interval_27_1>-1</interval_27_1>
-    <interval_27_2>-1</interval_27_2>
-    <interval_27_3>2</interval_27_3>
-    <interval_27_4>0</interval_27_4>
-    <interval_28_1>-1</interval_28_1>
-    <interval_28_2>-1</interval_28_2>
-    <interval_28_3>2</interval_28_3>
-    <interval_28_4>0</interval_28_4>
-    <interval_29_1>-1</interval_29_1>
-    <interval_29_2>-1</interval_29_2>
-    <interval_29_3>2</interval_29_3>
-    <interval_29_4>0</interval_29_4>
-    <interval_30_1>-1</interval_30_1>
-    <interval_30_2>-1</interval_30_2>
-    <interval_30_3>2</interval_30_3>
-    <interval_30_4>0</interval_30_4>
-    <interval_31_1>-1</interval_31_1>
-    <interval_31_2>-1</interval_31_2>
-    <interval_31_3>2</interval_31_3>
-    <interval_31_4>0</interval_31_4>
-    <interval_32_1>-1</interval_32_1>
-    <interval_32_2>-1</interval_32_2>
-    <interval_32_3>2</interval_32_3>
-    <interval_32_4>0</interval_32_4>
-    <interval_33_1>-1</interval_33_1>
-    <interval_33_2>2</interval_33_2>
-    <interval_33_3>0</interval_33_3>
-    <interval_33_4>0</interval_33_4>
-    <interval_34_1>-1</interval_34_1>
-    <interval_34_2>2</interval_34_2>
-    <interval_34_3>0</interval_34_3>
-    <interval_34_4>0</interval_34_4>
-    <interval_35_1>-1</interval_35_1>
-    <interval_35_2>2</interval_35_2>
-    <interval_35_3>0</interval_35_3>
-    <interval_35_4>0</interval_35_4>
-    <interval_36_1>-1</interval_36_1>
-    <interval_36_2>2</interval_36_2>
-    <interval_36_3>0</interval_36_3>
-    <interval_36_4>0</interval_36_4>
-    <interval_37_1>-1</interval_37_1>
-    <interval_37_2>2</interval_37_2>
+    <interval_37_2>0</interval_37_2>
     <interval_37_3>0</interval_37_3>
     <interval_37_4>0</interval_37_4>
-    <interval_38_1>-1</interval_38_1>
-    <interval_38_2>2</interval_38_2>
+    <interval_38_1>0</interval_38_1>
+    <interval_38_2>0</interval_38_2>
     <interval_38_3>0</interval_38_3>
     <interval_38_4>0</interval_38_4>
-    <interval_39_1>-1</interval_39_1>
-    <interval_39_2>2</interval_39_2>
+    <interval_39_1>0</interval_39_1>
+    <interval_39_2>0</interval_39_2>
     <interval_39_3>0</interval_39_3>
     <interval_39_4>0</interval_39_4>
-    <interval_40_1>-1</interval_40_1>
-    <interval_40_2>1</interval_40_2>
+    <interval_40_1>1</interval_40_1>
+    <interval_40_2>0</interval_40_2>
     <interval_40_3>0</interval_40_3>
     <interval_40_4>0</interval_40_4>
-    <interval_41_1>-1</interval_41_1>
+    <interval_41_1>1</interval_41_1>
     <interval_41_2>0</interval_41_2>
     <interval_41_3>0</interval_41_3>
     <interval_41_4>0</interval_41_4>
-    <interval_42_1>-1</interval_42_1>
+    <interval_42_1>1</interval_42_1>
     <interval_42_2>0</interval_42_2>
     <interval_42_3>0</interval_42_3>
     <interval_42_4>0</interval_42_4>
-    <interval_43_1>-1</interval_43_1>
+    <interval_43_1>1</interval_43_1>
     <interval_43_2>0</interval_43_2>
     <interval_43_3>0</interval_43_3>
     <interval_43_4>0</interval_43_4>
-    <interval_44_1>-1</interval_44_1>
+    <interval_44_1>1</interval_44_1>
+    <interval_44_2>0</interval_44_2>
+    <interval_44_3>0</interval_44_3>
+    <interval_44_4>0</interval_44_4>
+    <interval_45_1>2</interval_45_1>
+    <interval_45_2>2</interval_45_2>
+    <interval_45_3>0</interval_45_3>
+    <interval_45_4>0</interval_45_4>
+    <interval_46_1>2</interval_46_1>
+    <interval_46_2>2</interval_46_2>
+    <interval_46_3>0</interval_46_3>
+    <interval_46_4>2</interval_46_4>
+    <interval_47_1>2</interval_47_1>
+    <interval_47_2>2</interval_47_2>
+    <interval_47_3>0</interval_47_3>
+    <interval_47_4>2</interval_47_4>
+    <interval_48_1>2</interval_48_1>
+    <interval_48_2>2</interval_48_2>
+    <interval_48_3>2</interval_48_3>
+    <interval_48_4>2</interval_48_4>
+  </THURSDAY>
+  <FRIDAY>
+    <interval_1_1>2</interval_1_1>
+    <interval_1_2>2</interval_1_2>
+    <interval_1_3>2</interval_1_3>
+    <interval_1_4>2</interval_1_4>
+    <interval_2_1>2</interval_2_1>
+    <interval_2_2>2</interval_2_2>
+    <interval_2_3>2</interval_2_3>
+    <interval_2_4>2</interval_2_4>
+    <interval_3_1>2</interval_3_1>
+    <interval_3_2>2</interval_3_2>
+    <interval_3_3>2</interval_3_3>
+    <interval_3_4>2</interval_3_4>
+    <interval_4_1>2</interval_4_1>
+    <interval_4_2>2</interval_4_2>
+    <interval_4_3>2</interval_4_3>
+    <interval_4_4>2</interval_4_4>
+    <interval_5_1>2</interval_5_1>
+    <interval_5_2>2</interval_5_2>
+    <interval_5_3>2</interval_5_3>
+    <interval_5_4>2</interval_5_4>
+    <interval_6_1>2</interval_6_1>
+    <interval_6_2>2</interval_6_2>
+    <interval_6_3>2</interval_6_3>
+    <interval_6_4>2</interval_6_4>
+    <interval_7_1>2</interval_7_1>
+    <interval_7_2>2</interval_7_2>
+    <interval_7_3>2</interval_7_3>
+    <interval_7_4>2</interval_7_4>
+    <interval_8_1>2</interval_8_1>
+    <interval_8_2>2</interval_8_2>
+    <interval_8_3>2</interval_8_3>
+    <interval_8_4>2</interval_8_4>
+    <interval_9_1>2</interval_9_1>
+    <interval_9_2>2</interval_9_2>
+    <interval_9_3>2</interval_9_3>
+    <interval_9_4>2</interval_9_4>
+    <interval_10_1>2</interval_10_1>
+    <interval_10_2>2</interval_10_2>
+    <interval_10_3>2</interval_10_3>
+    <interval_10_4>2</interval_10_4>
+    <interval_11_1>2</interval_11_1>
+    <interval_11_2>2</interval_11_2>
+    <interval_11_3>2</interval_11_3>
+    <interval_11_4>2</interval_11_4>
+    <interval_12_1>2</interval_12_1>
+    <interval_12_2>2</interval_12_2>
+    <interval_12_3>2</interval_12_3>
+    <interval_12_4>2</interval_12_4>
+    <interval_13_1>2</interval_13_1>
+    <interval_13_2>2</interval_13_2>
+    <interval_13_3>2</interval_13_3>
+    <interval_13_4>2</interval_13_4>
+    <interval_14_1>2</interval_14_1>
+    <interval_14_2>2</interval_14_2>
+    <interval_14_3>2</interval_14_3>
+    <interval_14_4>2</interval_14_4>
+    <interval_15_1>2</interval_15_1>
+    <interval_15_2>2</interval_15_2>
+    <interval_15_3>2</interval_15_3>
+    <interval_15_4>2</interval_15_4>
+    <interval_16_1>1</interval_16_1>
+    <interval_16_2>1</interval_16_2>
+    <interval_16_3>2</interval_16_3>
+    <interval_16_4>2</interval_16_4>
+    <interval_17_1>0</interval_17_1>
+    <interval_17_2>0</interval_17_2>
+    <interval_17_3>2</interval_17_3>
+    <interval_17_4>2</interval_17_4>
+    <interval_18_1>0</interval_18_1>
+    <interval_18_2>0</interval_18_2>
+    <interval_18_3>2</interval_18_3>
+    <interval_18_4>2</interval_18_4>
+    <interval_19_1>0</interval_19_1>
+    <interval_19_2>0</interval_19_2>
+    <interval_19_3>2</interval_19_3>
+    <interval_19_4>2</interval_19_4>
+    <interval_20_1>2</interval_20_1>
+    <interval_20_2>0</interval_20_2>
+    <interval_20_3>1</interval_20_3>
+    <interval_20_4>2</interval_20_4>
+    <interval_21_1>2</interval_21_1>
+    <interval_21_2>0</interval_21_2>
+    <interval_21_3>0</interval_21_3>
+    <interval_21_4>2</interval_21_4>
+    <interval_22_1>2</interval_22_1>
+    <interval_22_2>0</interval_22_2>
+    <interval_22_3>0</interval_22_3>
+    <interval_22_4>2</interval_22_4>
+    <interval_23_1>2</interval_23_1>
+    <interval_23_2>0</interval_23_2>
+    <interval_23_3>0</interval_23_3>
+    <interval_23_4>1</interval_23_4>
+    <interval_24_1>2</interval_24_1>
+    <interval_24_2>0</interval_24_2>
+    <interval_24_3>0</interval_24_3>
+    <interval_24_4>0</interval_24_4>
+    <interval_25_1>2</interval_25_1>
+    <interval_25_2>0</interval_25_2>
+    <interval_25_3>0</interval_25_3>
+    <interval_25_4>0</interval_25_4>
+    <interval_26_1>1</interval_26_1>
+    <interval_26_2>0</interval_26_2>
+    <interval_26_3>0</interval_26_3>
+    <interval_26_4>0</interval_26_4>
+    <interval_27_1>1</interval_27_1>
+    <interval_27_2>0</interval_27_2>
+    <interval_27_3>0</interval_27_3>
+    <interval_27_4>0</interval_27_4>
+    <interval_28_1>1</interval_28_1>
+    <interval_28_2>0</interval_28_2>
+    <interval_28_3>0</interval_28_3>
+    <interval_28_4>0</interval_28_4>
+    <interval_29_1>1</interval_29_1>
+    <interval_29_2>0</interval_29_2>
+    <interval_29_3>0</interval_29_3>
+    <interval_29_4>0</interval_29_4>
+    <interval_30_1>1</interval_30_1>
+    <interval_30_2>0</interval_30_2>
+    <interval_30_3>0</interval_30_3>
+    <interval_30_4>0</interval_30_4>
+    <interval_31_1>1</interval_31_1>
+    <interval_31_2>0</interval_31_2>
+    <interval_31_3>0</interval_31_3>
+    <interval_31_4>0</interval_31_4>
+    <interval_32_1>0</interval_32_1>
+    <interval_32_2>0</interval_32_2>
+    <interval_32_3>0</interval_32_3>
+    <interval_32_4>0</interval_32_4>
+    <interval_33_1>0</interval_33_1>
+    <interval_33_2>0</interval_33_2>
+    <interval_33_3>0</interval_33_3>
+    <interval_33_4>0</interval_33_4>
+    <interval_34_1>0</interval_34_1>
+    <interval_34_2>0</interval_34_2>
+    <interval_34_3>0</interval_34_3>
+    <interval_34_4>0</interval_34_4>
+    <interval_35_1>0</interval_35_1>
+    <interval_35_2>0</interval_35_2>
+    <interval_35_3>0</interval_35_3>
+    <interval_35_4>0</interval_35_4>
+    <interval_36_1>0</interval_36_1>
+    <interval_36_2>0</interval_36_2>
+    <interval_36_3>0</interval_36_3>
+    <interval_36_4>0</interval_36_4>
+    <interval_37_1>0</interval_37_1>
+    <interval_37_2>0</interval_37_2>
+    <interval_37_3>0</interval_37_3>
+    <interval_37_4>0</interval_37_4>
+    <interval_38_1>0</interval_38_1>
+    <interval_38_2>0</interval_38_2>
+    <interval_38_3>0</interval_38_3>
+    <interval_38_4>0</interval_38_4>
+    <interval_39_1>0</interval_39_1>
+    <interval_39_2>0</interval_39_2>
+    <interval_39_3>0</interval_39_3>
+    <interval_39_4>0</interval_39_4>
+    <interval_40_1>0</interval_40_1>
+    <interval_40_2>0</interval_40_2>
+    <interval_40_3>0</interval_40_3>
+    <interval_40_4>0</interval_40_4>
+    <interval_41_1>0</interval_41_1>
+    <interval_41_2>0</interval_41_2>
+    <interval_41_3>0</interval_41_3>
+    <interval_41_4>0</interval_41_4>
+    <interval_42_1>0</interval_42_1>
+    <interval_42_2>0</interval_42_2>
+    <interval_42_3>0</interval_42_3>
+    <interval_42_4>0</interval_42_4>
+    <interval_43_1>0</interval_43_1>
+    <interval_43_2>0</interval_43_2>
+    <interval_43_3>0</interval_43_3>
+    <interval_43_4>0</interval_43_4>
+    <interval_44_1>0</interval_44_1>
     <interval_44_2>0</interval_44_2>
     <interval_44_3>0</interval_44_3>
     <interval_44_4>0</interval_44_4>
@@ -958,367 +1152,173 @@
     <interval_45_3>0</interval_45_3>
     <interval_45_4>0</interval_45_4>
     <interval_46_1>0</interval_46_1>
-    <interval_46_2>0</interval_46_2>
+    <interval_46_2>2</interval_46_2>
     <interval_46_3>0</interval_46_3>
     <interval_46_4>0</interval_46_4>
-    <interval_47_1>-1</interval_47_1>
-    <interval_47_2>-1</interval_47_2>
+    <interval_47_1>2</interval_47_1>
+    <interval_47_2>2</interval_47_2>
     <interval_47_3>0</interval_47_3>
     <interval_47_4>0</interval_47_4>
-    <interval_48_1>-1</interval_48_1>
-    <interval_48_2>-1</interval_48_2>
+    <interval_48_1>2</interval_48_1>
+    <interval_48_2>2</interval_48_2>
     <interval_48_3>0</interval_48_3>
-    <interval_48_4>2</interval_48_4>
-  </THURSDAY>
-  <FRIDAY>
-    <interval_1_1>-1</interval_1_1>
-    <interval_1_2>-1</interval_1_2>
-    <interval_1_3>0</interval_1_3>
-    <interval_1_4>2</interval_1_4>
-    <interval_2_1>-1</interval_2_1>
-    <interval_2_2>-1</interval_2_2>
-    <interval_2_3>0</interval_2_3>
-    <interval_2_4>2</interval_2_4>
-    <interval_3_1>-1</interval_3_1>
-    <interval_3_2>-1</interval_3_2>
-    <interval_3_3>0</interval_3_3>
-    <interval_3_4>2</interval_3_4>
-    <interval_4_1>-1</interval_4_1>
-    <interval_4_2>-1</interval_4_2>
-    <interval_4_3>0</interval_4_3>
-    <interval_4_4>2</interval_4_4>
-    <interval_5_1>-1</interval_5_1>
-    <interval_5_2>-1</interval_5_2>
-    <interval_5_3>0</interval_5_3>
-    <interval_5_4>2</interval_5_4>
-    <interval_6_1>-1</interval_6_1>
-    <interval_6_2>-1</interval_6_2>
-    <interval_6_3>0</interval_6_3>
+    <interval_48_4>0</interval_48_4>
+  </FRIDAY>
+  <SATURDAY>
+    <interval_1_1>2</interval_1_1>
+    <interval_1_2>2</interval_1_2>
+    <interval_1_3>2</interval_1_3>
+    <interval_1_4>0</interval_1_4>
+    <interval_2_1>2</interval_2_1>
+    <interval_2_2>2</interval_2_2>
+    <interval_2_3>2</interval_2_3>
+    <interval_2_4>0</interval_2_4>
+    <interval_3_1>2</interval_3_1>
+    <interval_3_2>2</interval_3_2>
+    <interval_3_3>2</interval_3_3>
+    <interval_3_4>0</interval_3_4>
+    <interval_4_1>2</interval_4_1>
+    <interval_4_2>2</interval_4_2>
+    <interval_4_3>2</interval_4_3>
+    <interval_4_4>0</interval_4_4>
+    <interval_5_1>2</interval_5_1>
+    <interval_5_2>2</interval_5_2>
+    <interval_5_3>2</interval_5_3>
+    <interval_5_4>0</interval_5_4>
+    <interval_6_1>2</interval_6_1>
+    <interval_6_2>2</interval_6_2>
+    <interval_6_3>2</interval_6_3>
     <interval_6_4>2</interval_6_4>
-    <interval_7_1>-1</interval_7_1>
-    <interval_7_2>-1</interval_7_2>
-    <interval_7_3>0</interval_7_3>
+    <interval_7_1>2</interval_7_1>
+    <interval_7_2>2</interval_7_2>
+    <interval_7_3>2</interval_7_3>
     <interval_7_4>2</interval_7_4>
-    <interval_8_1>-1</interval_8_1>
-    <interval_8_2>-1</interval_8_2>
-    <interval_8_3>0</interval_8_3>
+    <interval_8_1>2</interval_8_1>
+    <interval_8_2>2</interval_8_2>
+    <interval_8_3>2</interval_8_3>
     <interval_8_4>2</interval_8_4>
-    <interval_9_1>-1</interval_9_1>
-    <interval_9_2>-1</interval_9_2>
-    <interval_9_3>0</interval_9_3>
+    <interval_9_1>2</interval_9_1>
+    <interval_9_2>2</interval_9_2>
+    <interval_9_3>2</interval_9_3>
     <interval_9_4>2</interval_9_4>
-    <interval_10_1>-1</interval_10_1>
-    <interval_10_2>-1</interval_10_2>
-    <interval_10_3>0</interval_10_3>
+    <interval_10_1>2</interval_10_1>
+    <interval_10_2>2</interval_10_2>
+    <interval_10_3>2</interval_10_3>
     <interval_10_4>2</interval_10_4>
-    <interval_11_1>-1</interval_11_1>
-    <interval_11_2>-1</interval_11_2>
-    <interval_11_3>0</interval_11_3>
+    <interval_11_1>2</interval_11_1>
+    <interval_11_2>2</interval_11_2>
+    <interval_11_3>2</interval_11_3>
     <interval_11_4>2</interval_11_4>
-    <interval_12_1>-1</interval_12_1>
-    <interval_12_2>-1</interval_12_2>
-    <interval_12_3>0</interval_12_3>
+    <interval_12_1>2</interval_12_1>
+    <interval_12_2>2</interval_12_2>
+    <interval_12_3>2</interval_12_3>
     <interval_12_4>2</interval_12_4>
-    <interval_13_1>-1</interval_13_1>
-    <interval_13_2>-1</interval_13_2>
-    <interval_13_3>0</interval_13_3>
+    <interval_13_1>2</interval_13_1>
+    <interval_13_2>2</interval_13_2>
+    <interval_13_3>2</interval_13_3>
     <interval_13_4>2</interval_13_4>
-    <interval_14_1>-1</interval_14_1>
-    <interval_14_2>-1</interval_14_2>
-    <interval_14_3>0</interval_14_3>
+    <interval_14_1>2</interval_14_1>
+    <interval_14_2>2</interval_14_2>
+    <interval_14_3>2</interval_14_3>
     <interval_14_4>2</interval_14_4>
-    <interval_15_1>-1</interval_15_1>
-    <interval_15_2>-1</interval_15_2>
+    <interval_15_1>2</interval_15_1>
+    <interval_15_2>2</interval_15_2>
     <interval_15_3>2</interval_15_3>
     <interval_15_4>2</interval_15_4>
-    <interval_16_1>-1</interval_16_1>
-    <interval_16_2>-1</interval_16_2>
+    <interval_16_1>2</interval_16_1>
+    <interval_16_2>2</interval_16_2>
     <interval_16_3>2</interval_16_3>
     <interval_16_4>1</interval_16_4>
-    <interval_17_1>-1</interval_17_1>
-    <interval_17_2>-1</interval_17_2>
+    <interval_17_1>2</interval_17_1>
+    <interval_17_2>1</interval_17_2>
     <interval_17_3>2</interval_17_3>
     <interval_17_4>0</interval_17_4>
-    <interval_18_1>-1</interval_18_1>
-    <interval_18_2>-1</interval_18_2>
+    <interval_18_1>1</interval_18_1>
+    <interval_18_2>0</interval_18_2>
     <interval_18_3>2</interval_18_3>
     <interval_18_4>0</interval_18_4>
-    <interval_19_1>-1</interval_19_1>
-    <interval_19_2>-1</interval_19_2>
-    <interval_19_3>2</interval_19_3>
+    <interval_19_1>0</interval_19_1>
+    <interval_19_2>0</interval_19_2>
+    <interval_19_3>1</interval_19_3>
     <interval_19_4>0</interval_19_4>
-    <interval_20_1>-1</interval_20_1>
-    <interval_20_2>-1</interval_20_2>
-    <interval_20_3>2</interval_20_3>
+    <interval_20_1>0</interval_20_1>
+    <interval_20_2>0</interval_20_2>
+    <interval_20_3>0</interval_20_3>
     <interval_20_4>0</interval_20_4>
-    <interval_21_1>-1</interval_21_1>
-    <interval_21_2>-1</interval_21_2>
-    <interval_21_3>2</interval_21_3>
+    <interval_21_1>0</interval_21_1>
+    <interval_21_2>0</interval_21_2>
+    <interval_21_3>0</interval_21_3>
     <interval_21_4>0</interval_21_4>
     <interval_22_1>-1</interval_22_1>
-    <interval_22_2>-1</interval_22_2>
-    <interval_22_3>2</interval_22_3>
+    <interval_22_2>0</interval_22_2>
+    <interval_22_3>0</interval_22_3>
     <interval_22_4>0</interval_22_4>
     <interval_23_1>-1</interval_23_1>
-    <interval_23_2>-1</interval_23_2>
-    <interval_23_3>2</interval_23_3>
+    <interval_23_2>0</interval_23_2>
+    <interval_23_3>0</interval_23_3>
     <interval_23_4>0</interval_23_4>
     <interval_24_1>-1</interval_24_1>
-    <interval_24_2>-1</interval_24_2>
-    <interval_24_3>2</interval_24_3>
+    <interval_24_2>1</interval_24_2>
+    <interval_24_3>0</interval_24_3>
     <interval_24_4>0</interval_24_4>
     <interval_25_1>-1</interval_25_1>
-    <interval_25_2>-1</interval_25_2>
-    <interval_25_3>2</interval_25_3>
+    <interval_25_2>1</interval_25_2>
+    <interval_25_3>0</interval_25_3>
     <interval_25_4>0</interval_25_4>
     <interval_26_1>-1</interval_26_1>
-    <interval_26_2>-1</interval_26_2>
-    <interval_26_3>2</interval_26_3>
+    <interval_26_2>1</interval_26_2>
+    <interval_26_3>0</interval_26_3>
     <interval_26_4>0</interval_26_4>
     <interval_27_1>-1</interval_27_1>
-    <interval_27_2>-1</interval_27_2>
-    <interval_27_3>2</interval_27_3>
+    <interval_27_2>1</interval_27_2>
+    <interval_27_3>0</interval_27_3>
     <interval_27_4>0</interval_27_4>
     <interval_28_1>-1</interval_28_1>
-    <interval_28_2>-1</interval_28_2>
-    <interval_28_3>1</interval_28_3>
+    <interval_28_2>1</interval_28_2>
+    <interval_28_3>0</interval_28_3>
     <interval_28_4>0</interval_28_4>
     <interval_29_1>-1</interval_29_1>
-    <interval_29_2>-1</interval_29_2>
+    <interval_29_2>1</interval_29_2>
     <interval_29_3>0</interval_29_3>
     <interval_29_4>0</interval_29_4>
     <interval_30_1>-1</interval_30_1>
-    <interval_30_2>-1</interval_30_2>
+    <interval_30_2>1</interval_30_2>
     <interval_30_3>0</interval_30_3>
     <interval_30_4>0</interval_30_4>
     <interval_31_1>-1</interval_31_1>
-    <interval_31_2>-1</interval_31_2>
+    <interval_31_2>0</interval_31_2>
     <interval_31_3>0</interval_31_3>
     <interval_31_4>0</interval_31_4>
     <interval_32_1>-1</interval_32_1>
-    <interval_32_2>-1</interval_32_2>
+    <interval_32_2>0</interval_32_2>
     <interval_32_3>0</interval_32_3>
     <interval_32_4>0</interval_32_4>
     <interval_33_1>-1</interval_33_1>
-    <interval_33_2>-1</interval_33_2>
+    <interval_33_2>1</interval_33_2>
     <interval_33_3>0</interval_33_3>
     <interval_33_4>0</interval_33_4>
     <interval_34_1>-1</interval_34_1>
-    <interval_34_2>0</interval_34_2>
+    <interval_34_2>1</interval_34_2>
     <interval_34_3>0</interval_34_3>
     <interval_34_4>0</interval_34_4>
     <interval_35_1>-1</interval_35_1>
-    <interval_35_2>-1</interval_35_2>
+    <interval_35_2>0</interval_35_2>
     <interval_35_3>0</interval_35_3>
     <interval_35_4>0</interval_35_4>
-    <interval_36_1>-1</interval_36_1>
-    <interval_36_2>-1</interval_36_2>
-    <interval_36_3>0</interval_36_3>
+    <interval_36_1>1</interval_36_1>
+    <interval_36_2>0</interval_36_2>
+    <interval_36_3>1</interval_36_3>
     <interval_36_4>0</interval_36_4>
-    <interval_37_1>-1</interval_37_1>
-    <interval_37_2>-1</interval_37_2>
-    <interval_37_3>0</interval_37_3>
+    <interval_37_1>1</interval_37_1>
+    <interval_37_2>0</interval_37_2>
+    <interval_37_3>1</interval_37_3>
     <interval_37_4>0</interval_37_4>
-    <interval_38_1>-1</interval_38_1>
-    <interval_38_2>-1</interval_38_2>
+    <interval_38_1>1</interval_38_1>
+    <interval_38_2>0</interval_38_2>
     <interval_38_3>0</interval_38_3>
     <interval_38_4>0</interval_38_4>
-    <interval_39_1>-1</interval_39_1>
-    <interval_39_2>-1</interval_39_2>
-    <interval_39_3>-1</interval_39_3>
-    <interval_39_4>0</interval_39_4>
-    <interval_40_1>-1</interval_40_1>
-    <interval_40_2>-1</interval_40_2>
-    <interval_40_3>-1</interval_40_3>
-    <interval_40_4>0</interval_40_4>
-    <interval_41_1>-1</interval_41_1>
-    <interval_41_2>-1</interval_41_2>
-    <interval_41_3>-1</interval_41_3>
-    <interval_41_4>0</interval_41_4>
-    <interval_42_1>-1</interval_42_1>
-    <interval_42_2>-1</interval_42_2>
-    <interval_42_3>0</interval_42_3>
-    <interval_42_4>0</interval_42_4>
-    <interval_43_1>-1</interval_43_1>
-    <interval_43_2>-1</interval_43_2>
-    <interval_43_3>-1</interval_43_3>
-    <interval_43_4>0</interval_43_4>
-    <interval_44_1>-1</interval_44_1>
-    <interval_44_2>-1</interval_44_2>
-    <interval_44_3>-1</interval_44_3>
-    <interval_44_4>0</interval_44_4>
-    <interval_45_1>-1</interval_45_1>
-    <interval_45_2>-1</interval_45_2>
-    <interval_45_3>-1</interval_45_3>
-    <interval_45_4>0</interval_45_4>
-    <interval_46_1>-1</interval_46_1>
-    <interval_46_2>-1</interval_46_2>
-    <interval_46_3>-1</interval_46_3>
-    <interval_46_4>0</interval_46_4>
-    <interval_47_1>-1</interval_47_1>
-    <interval_47_2>-1</interval_47_2>
-    <interval_47_3>0</interval_47_3>
-    <interval_47_4>0</interval_47_4>
-    <interval_48_1>-1</interval_48_1>
-    <interval_48_2>-1</interval_48_2>
-    <interval_48_3>0</interval_48_3>
-    <interval_48_4>2</interval_48_4>
-  </FRIDAY>
-  <SATURDAY>
-    <interval_1_1>-1</interval_1_1>
-    <interval_1_2>-1</interval_1_2>
-    <interval_1_3>-1</interval_1_3>
-    <interval_1_4>0</interval_1_4>
-    <interval_2_1>-1</interval_2_1>
-    <interval_2_2>-1</interval_2_2>
-    <interval_2_3>-1</interval_2_3>
-    <interval_2_4>0</interval_2_4>
-    <interval_3_1>-1</interval_3_1>
-    <interval_3_2>-1</interval_3_2>
-    <interval_3_3>-1</interval_3_3>
-    <interval_3_4>0</interval_3_4>
-    <interval_4_1>-1</interval_4_1>
-    <interval_4_2>-1</interval_4_2>
-    <interval_4_3>0</interval_4_3>
-    <interval_4_4>0</interval_4_4>
-    <interval_5_1>-1</interval_5_1>
-    <interval_5_2>-1</interval_5_2>
-    <interval_5_3>-1</interval_5_3>
-    <interval_5_4>0</interval_5_4>
-    <interval_6_1>-1</interval_6_1>
-    <interval_6_2>-1</interval_6_2>
-    <interval_6_3>-1</interval_6_3>
-    <interval_6_4>0</interval_6_4>
-    <interval_7_1>-1</interval_7_1>
-    <interval_7_2>-1</interval_7_2>
-    <interval_7_3>-1</interval_7_3>
-    <interval_7_4>0</interval_7_4>
-    <interval_8_1>-1</interval_8_1>
-    <interval_8_2>-1</interval_8_2>
-    <interval_8_3>-1</interval_8_3>
-    <interval_8_4>0</interval_8_4>
-    <interval_9_1>-1</interval_9_1>
-    <interval_9_2>-1</interval_9_2>
-    <interval_9_3>-1</interval_9_3>
-    <interval_9_4>0</interval_9_4>
-    <interval_10_1>-1</interval_10_1>
-    <interval_10_2>-1</interval_10_2>
-    <interval_10_3>-1</interval_10_3>
-    <interval_10_4>0</interval_10_4>
-    <interval_11_1>-1</interval_11_1>
-    <interval_11_2>-1</interval_11_2>
-    <interval_11_3>-1</interval_11_3>
-    <interval_11_4>0</interval_11_4>
-    <interval_12_1>-1</interval_12_1>
-    <interval_12_2>-1</interval_12_2>
-    <interval_12_3>-1</interval_12_3>
-    <interval_12_4>2</interval_12_4>
-    <interval_13_1>-1</interval_13_1>
-    <interval_13_2>-1</interval_13_2>
-    <interval_13_3>-1</interval_13_3>
-    <interval_13_4>2</interval_13_4>
-    <interval_14_1>-1</interval_14_1>
-    <interval_14_2>-1</interval_14_2>
-    <interval_14_3>-1</interval_14_3>
-    <interval_14_4>2</interval_14_4>
-    <interval_15_1>-1</interval_15_1>
-    <interval_15_2>-1</interval_15_2>
-    <interval_15_3>-1</interval_15_3>
-    <interval_15_4>2</interval_15_4>
-    <interval_16_1>-1</interval_16_1>
-    <interval_16_2>-1</interval_16_2>
-    <interval_16_3>-1</interval_16_3>
-    <interval_16_4>2</interval_16_4>
-    <interval_17_1>-1</interval_17_1>
-    <interval_17_2>-1</interval_17_2>
-    <interval_17_3>-1</interval_17_3>
-    <interval_17_4>2</interval_17_4>
-    <interval_18_1>-1</interval_18_1>
-    <interval_18_2>-1</interval_18_2>
-    <interval_18_3>-1</interval_18_3>
-    <interval_18_4>1</interval_18_4>
-    <interval_19_1>-1</interval_19_1>
-    <interval_19_2>-1</interval_19_2>
-    <interval_19_3>1</interval_19_3>
-    <interval_19_4>0</interval_19_4>
-    <interval_20_1>-1</interval_20_1>
-    <interval_20_2>-1</interval_20_2>
-    <interval_20_3>-1</interval_20_3>
-    <interval_20_4>0</interval_20_4>
-    <interval_21_1>-1</interval_21_1>
-    <interval_21_2>-1</interval_21_2>
-    <interval_21_3>-1</interval_21_3>
-    <interval_21_4>0</interval_21_4>
-    <interval_22_1>-1</interval_22_1>
-    <interval_22_2>-1</interval_22_2>
-    <interval_22_3>-1</interval_22_3>
-    <interval_22_4>-1</interval_22_4>
-    <interval_23_1>-1</interval_23_1>
-    <interval_23_2>-1</interval_23_2>
-    <interval_23_3>-1</interval_23_3>
-    <interval_23_4>-1</interval_23_4>
-    <interval_24_1>-1</interval_24_1>
-    <interval_24_2>-1</interval_24_2>
-    <interval_24_3>-1</interval_24_3>
-    <interval_24_4>-1</interval_24_4>
-    <interval_25_1>-1</interval_25_1>
-    <interval_25_2>-1</interval_25_2>
-    <interval_25_3>-1</interval_25_3>
-    <interval_25_4>-1</interval_25_4>
-    <interval_26_1>-1</interval_26_1>
-    <interval_26_2>-1</interval_26_2>
-    <interval_26_3>-1</interval_26_3>
-    <interval_26_4>-1</interval_26_4>
-    <interval_27_1>-1</interval_27_1>
-    <interval_27_2>-1</interval_27_2>
-    <interval_27_3>-1</interval_27_3>
-    <interval_27_4>-1</interval_27_4>
-    <interval_28_1>-1</interval_28_1>
-    <interval_28_2>-1</interval_28_2>
-    <interval_28_3>-1</interval_28_3>
-    <interval_28_4>-1</interval_28_4>
-    <interval_29_1>-1</interval_29_1>
-    <interval_29_2>-1</interval_29_2>
-    <interval_29_3>-1</interval_29_3>
-    <interval_29_4>-1</interval_29_4>
-    <interval_30_1>-1</interval_30_1>
-    <interval_30_2>-1</interval_30_2>
-    <interval_30_3>-1</interval_30_3>
-    <interval_30_4>-1</interval_30_4>
-    <interval_31_1>-1</interval_31_1>
-    <interval_31_2>-1</interval_31_2>
-    <interval_31_3>-1</interval_31_3>
-    <interval_31_4>-1</interval_31_4>
-    <interval_32_1>-1</interval_32_1>
-    <interval_32_2>-1</interval_32_2>
-    <interval_32_3>-1</interval_32_3>
-    <interval_32_4>-1</interval_32_4>
-    <interval_33_1>-1</interval_33_1>
-    <interval_33_2>-1</interval_33_2>
-    <interval_33_3>-1</interval_33_3>
-    <interval_33_4>-1</interval_33_4>
-    <interval_34_1>-1</interval_34_1>
-    <interval_34_2>-1</interval_34_2>
-    <interval_34_3>-1</interval_34_3>
-    <interval_34_4>-1</interval_34_4>
-    <interval_35_1>-1</interval_35_1>
-    <interval_35_2>-1</interval_35_2>
-    <interval_35_3>-1</interval_35_3>
-    <interval_35_4>-1</interval_35_4>
-    <interval_36_1>-1</interval_36_1>
-    <interval_36_2>-1</interval_36_2>
-    <interval_36_3>-1</interval_36_3>
-    <interval_36_4>1</interval_36_4>
-    <interval_37_1>-1</interval_37_1>
-    <interval_37_2>-1</interval_37_2>
-    <interval_37_3>-1</interval_37_3>
-    <interval_37_4>1</interval_37_4>
-    <interval_38_1>1</interval_38_1>
-    <interval_38_2>1</interval_38_2>
-    <interval_38_3>1</interval_38_3>
-    <interval_38_4>1</interval_38_4>
-    <interval_39_1>-1</interval_39_1>
-    <interval_39_2>1</interval_39_2>
+    <interval_39_1>0</interval_39_1>
+    <interval_39_2>0</interval_39_2>
     <interval_39_3>0</interval_39_3>
     <interval_39_4>0</interval_39_4>
     <interval_40_1>0</interval_40_1>
@@ -1347,15 +1347,15 @@
     <interval_45_4>0</interval_45_4>
     <interval_46_1>0</interval_46_1>
     <interval_46_2>0</interval_46_2>
-    <interval_46_3>0</interval_46_3>
-    <interval_46_4>0</interval_46_4>
+    <interval_46_3>2</interval_46_3>
+    <interval_46_4>2</interval_46_4>
     <interval_47_1>0</interval_47_1>
     <interval_47_2>0</interval_47_2>
-    <interval_47_3>0</interval_47_3>
-    <interval_47_4>0</interval_47_4>
-    <interval_48_1>0</interval_48_1>
-    <interval_48_2>0</interval_48_2>
-    <interval_48_3>0</interval_48_3>
+    <interval_47_3>2</interval_47_3>
+    <interval_47_4>2</interval_47_4>
+    <interval_48_1>2</interval_48_1>
+    <interval_48_2>2</interval_48_2>
+    <interval_48_3>2</interval_48_3>
     <interval_48_4>0</interval_48_4>
   </SATURDAY>
 </People>
