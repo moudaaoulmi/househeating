@@ -1,0 +1,1 @@
+Heating the house efficiently and increasing the consumption of energy produced by solar panels, but at the same time reducing consumption of energy by enel
